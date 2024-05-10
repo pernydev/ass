@@ -1,2510 +1,1658 @@
 <svg
+	viewBox="0 0 1058 237"
+	fill="none"
 	xmlns="http://www.w3.org/2000/svg"
-	xmlns:xlink="http://www.w3.org/1999/xlink"
-	xmlns:vr="http://vr/wagonmap"
-	viewBox="0 0 1586 237"
-	preserveAspectRatio="xMinYMin meet"
-	class="injected-svg"
-	data-src="https://prod.wagonmap.prodvrfi.vrpublic.fi/images/v1.8.0/ED_up.svg"
-	role="img"
-	><defs
-		><svg
-			xmlns="http://www.w3.org/2000/svg"
-			id="pet-seat-icon"
-			viewBox="0 0 620 620"
-			preserveAspectRatio="xMinYMin meet"
-			><g fill-rule="evenodd"
-				><path
-					d="M42.2 15.868a2.013 2.013 0 01-.716.132H27.548a2 2 0 01-1.02-.279l-7.883-4.669-2.736-6.519A2.5 2.5 0 0013.604 3h-2.676l1.26 3h-1.204a6 6 0 00-6 6v.099l-3.699 1.416a2 2 0 00-1.152 2.584l1.263 3.274A6 6 0 006.906 23h3.078v4.388c0 1.256.395 2.481 1.127 3.501l1.873 2.606V45h1.5a2.5 2.5 0 002.5-2.5v-9.004c0-.837-.263-1.654-.752-2.334l-1.87-2.606a2.002 2.002 0 01-.378-1.169V23a4 4 0 00-4-4H6.906a2 2 0 01-1.867-1.284l-.454-1.18 1.64-.627c1.581-.606 2.787-2.116 2.76-3.81V12c-.019-1.12.883-1.997 2-1.997h2.883l1.09 2.597a4.002 4.002 0 001.65 1.893l7.881 4.669a5.996 5.996 0 003.06.838h13.934c.735 0 1.462-.134 2.148-.397l2.748-1.053a2.5 2.5 0 001.605-2.334v-2.564L42.2 15.868zm4.067 8.562a2.499 2.499 0 00-3.228-1.44l-1.4.537 1.212 3.169c.088.228.133.471.133.715v17.584h1.5a2.5 2.5 0 002.5-2.5V27.41a6.01 6.01 0 00-.397-2.146l-.32-.834zm-9.445 4.117a4.001 4.001 0 00-4.668-1.384l-9.359 3.59a6.001 6.001 0 00-3.853 5.663L18.984 45l1.493-.007a2.501 2.501 0 002.488-2.52l-.023-6.097a2.005 2.005 0 011.288-1.889l9.356-3.589 3.016 4.153a2 2 0 01.382 1.175V45h1.5a2.5 2.5 0 002.5-2.5v-6.277c0-1.266-.4-2.5-1.145-3.524l-3.017-4.152z"
-				></path></g
-			></svg
-		></defs
-	><g id="ED_up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"
-		><path fill="#FFF" d="M0 0h1586v237H0z"></path><g
-			id="Pet-seat-indicators"
-			transform="translate(419 8)"
-			><path
-				id="pet_seat_indicator_111"
-				vr:x="56"
-				vr:y="0"
-				vr:width="57"
-				vr:height="57"
-				d="M56 0h57v57H56z"
-			></path><path
-				id="pet_seat_indicator_112"
-				vr:x="56"
-				vr:y="45"
-				vr:width="57"
-				vr:height="67"
-				d="M56 45h57v67H56z"
-			></path><path
-				id="pet_seat_indicator_107"
-				vr:x="112"
-				vr:y="0"
-				vr:width="57"
-				vr:height="57"
-				d="M112 0h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_108"
-				vr:x="112"
-				vr:y="45"
-				vr:width="57"
-				vr:height="67"
-				d="M112 45h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_103"
-				vr:x="168"
-				vr:y="0"
-				vr:width="57"
-				vr:height="57"
-				d="M168 0h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_104"
-				vr:x="168"
-				vr:y="45"
-				vr:width="57"
-				vr:height="67"
-				d="M168 45h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_99"
-				vr:x="224"
-				vr:y="0"
-				vr:width="57"
-				vr:height="57"
-				d="M224 0h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_100"
-				vr:x="224"
-				vr:y="45"
-				vr:width="57"
-				vr:height="67"
-				d="M224 45h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_95"
-				vr:x="280"
-				vr:y="0"
-				vr:width="66"
-				vr:height="57"
-				d="M280 0h66v57h-66z"
-			></path><path
-				id="pet_seat_indicator_96"
-				vr:x="280"
-				vr:y="45"
-				vr:width="66"
-				vr:height="67"
-				d="M280 45h66v67h-66z"
-			></path><path
-				id="pet_seat_indicator_87"
-				vr:x="410"
-				vr:y="0"
-				vr:width="57"
-				vr:height="57"
-				d="M410 0h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_88"
-				vr:x="410"
-				vr:y="45"
-				vr:width="57"
-				vr:height="67"
-				d="M410 45h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_91"
-				vr:x="345"
-				vr:y="0"
-				vr:width="66"
-				vr:height="57"
-				d="M345 0h66v57h-66z"
-			></path><path
-				id="pet_seat_indicator_92"
-				vr:x="345"
-				vr:y="45"
-				vr:width="66"
-				vr:height="67"
-				d="M345 45h66v67h-66z"
-			></path><path
-				id="pet_seat_indicator_83"
-				vr:x="466"
-				vr:y="0"
-				vr:width="57"
-				vr:height="57"
-				d="M466 0h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_84"
-				vr:x="466"
-				vr:y="45"
-				vr:width="57"
-				vr:height="67"
-				d="M466 45h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_79"
-				vr:x="522"
-				vr:y="0"
-				vr:width="57"
-				vr:height="57"
-				d="M522 0h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_80"
-				vr:x="522"
-				vr:y="45"
-				vr:width="57"
-				vr:height="67"
-				d="M522 45h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_75"
-				vr:x="578"
-				vr:y="0"
-				vr:width="57"
-				vr:height="57"
-				d="M578 0h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_76"
-				vr:x="578"
-				vr:y="45"
-				vr:width="57"
-				vr:height="67"
-				d="M578 45h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_109"
-				vr:x="56"
-				vr:y="166"
-				vr:width="57"
-				vr:height="57"
-				d="M56 166h57v57H56z"
-			></path><path
-				id="pet_seat_indicator_105"
-				vr:x="112"
-				vr:y="166"
-				vr:width="57"
-				vr:height="57"
-				d="M112 166h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_101"
-				vr:x="168"
-				vr:y="166"
-				vr:width="57"
-				vr:height="57"
-				d="M168 166h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_97"
-				vr:x="224"
-				vr:y="166"
-				vr:width="57"
-				vr:height="57"
-				d="M224 166h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_93"
-				vr:x="280"
-				vr:y="166"
-				vr:width="66"
-				vr:height="57"
-				d="M280 166h66v57h-66z"
-			></path><path
-				id="pet_seat_indicator_85"
-				vr:x="410"
-				vr:y="166"
-				vr:width="57"
-				vr:height="57"
-				d="M410 166h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_89"
-				vr:x="345"
-				vr:y="166"
-				vr:width="66"
-				vr:height="57"
-				d="M345 166h66v57h-66z"
-			></path><path
-				id="pet_seat_indicator_81"
-				vr:x="466"
-				vr:y="166"
-				vr:width="57"
-				vr:height="57"
-				d="M466 166h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_77"
-				vr:x="522"
-				vr:y="166"
-				vr:width="57"
-				vr:height="57"
-				d="M522 166h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_73"
-				vr:x="578"
-				vr:y="166"
-				vr:width="57"
-				vr:height="57"
-				d="M578 166h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_110"
-				vr:x="56"
-				vr:y="111"
-				vr:width="57"
-				vr:height="67"
-				d="M56 111h57v67H56z"
-			></path><path
-				id="pet_seat_indicator_115"
-				vr:x="0"
-				vr:y="0"
-				vr:width="57"
-				vr:height="57"
-				d="M0 0h57v57H0z"
-			></path><path
-				id="pet_seat_indicator_116"
-				vr:x="0"
-				vr:y="45"
-				vr:width="57"
-				vr:height="67"
-				d="M0 45h57v67H0z"
-			></path><path
-				id="pet_seat_indicator_113"
-				vr:x="0"
-				vr:y="112"
-				vr:width="57"
-				vr:height="111"
-				d="M0 112h57v111H0z"
-			></path><path
-				id="pet_seat_indicator_106"
-				vr:x="112"
-				vr:y="111"
-				vr:width="57"
-				vr:height="67"
-				d="M112 111h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_102"
-				vr:x="168"
-				vr:y="111"
-				vr:width="57"
-				vr:height="67"
-				d="M168 111h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_98"
-				vr:x="224"
-				vr:y="111"
-				vr:width="57"
-				vr:height="67"
-				d="M224 111h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_94"
-				vr:x="280"
-				vr:y="111"
-				vr:width="66"
-				vr:height="67"
-				d="M280 111h66v67h-66z"
-			></path><path
-				id="pet_seat_indicator_86"
-				vr:x="410"
-				vr:y="111"
-				vr:width="57"
-				vr:height="67"
-				d="M410 111h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_90"
-				vr:x="345"
-				vr:y="111"
-				vr:width="66"
-				vr:height="67"
-				d="M345 111h66v67h-66z"
-			></path><path
-				id="pet_seat_indicator_82"
-				vr:x="466"
-				vr:y="111"
-				vr:width="57"
-				vr:height="67"
-				d="M466 111h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_78"
-				vr:x="522"
-				vr:y="111"
-				vr:width="57"
-				vr:height="67"
-				d="M522 111h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_74"
-				vr:x="578"
-				vr:y="111"
-				vr:width="57"
-				vr:height="67"
-				d="M578 111h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_71"
-				vr:x="634"
-				vr:y="0"
-				vr:width="57"
-				vr:height="57"
-				d="M634 0h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_72"
-				vr:x="634"
-				vr:y="45"
-				vr:width="57"
-				vr:height="67"
-				d="M634 45h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_69"
-				vr:x="634"
-				vr:y="166"
-				vr:width="57"
-				vr:height="57"
-				d="M634 166h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_70"
-				vr:x="634"
-				vr:y="111"
-				vr:width="57"
-				vr:height="67"
-				d="M634 111h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_67"
-				vr:x="690"
-				vr:y="0"
-				vr:width="57"
-				vr:height="57"
-				d="M690 0h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_68"
-				vr:x="690"
-				vr:y="45"
-				vr:width="57"
-				vr:height="67"
-				d="M690 45h57v67h-57z"
-			></path><path
-				id="pet_seat_indicator_65"
-				vr:x="690"
-				vr:y="166"
-				vr:width="57"
-				vr:height="57"
-				d="M690 166h57v57h-57z"
-			></path><path
-				id="pet_seat_indicator_66"
-				vr:x="690"
-				vr:y="111"
-				vr:width="57"
-				vr:height="67"
-				d="M690 111h57v67h-57z"
-			></path></g
-		><g transform="translate(2 2)"
-			><g transform="translate(752 2.999)" fill="#E2D2BA" stroke="#E2D2BA" stroke-width="3"
-				><path
-					d="M18.974 1.5a284.22 284.22 0 01.526 17.501c0 15.356-1.163 29.258-3.05 39.322-.94 5.015-2.053 9.06-3.301 11.819-.543 1.198-1.097 2.136-1.687 2.76-.311.328-.61.599-.962.599s-.65-.27-.962-.6c-.59-.623-1.144-1.561-1.687-2.76-1.248-2.757-2.36-6.803-3.301-11.818C2.663 48.259 1.5 34.357 1.5 19c0-6.114.185-11.997.526-17.501h0zM2.046 225.503A273.597 273.597 0 011.5 208c0-15.078 1.162-28.729 3.049-38.61.94-4.921 2.05-8.89 3.298-11.597.54-1.173 1.093-2.092 1.682-2.703.314-.326.617-.59.971-.59s.657.264.971.59c.589.61 1.141 1.53 1.682 2.703 1.247 2.706 2.359 6.676 3.298 11.597 1.887 9.881 3.049 23.532 3.049 38.61 0 6.12-.192 12.007-.546 17.502h0z"
-				></path></g
-			><g transform="translate(1 5.2)" fill="#F2F2F2"
-				><path
-					d="M20 0h256l.382 69.432L300 69.8v83l54 1v71l-334-.147c-11.042-.014-19.991-8.967-20-20.009V20C0 8.954 8.954 0 20 0z"
-				></path><path
-					d="M1300 .064h229.526V74.8H1580v79h-36v72l-244-.083c-11.043-.01-19.993-8.963-20-20.006V20.064c0-11.046 8.954-20 20-20z"
-					transform="matrix(-1 0 0 1 2860 0)"
-				></path></g
-			><path fill="#DCDCDC" d="M1164 134h3v95h-3zM1164 5h3v94h-3z"></path><path
-				stroke="#DFDFDF"
-				stroke-width="3"
-				fill="#D8D8D8"
-				stroke-linecap="square"
-				d="M355 158.773v69.511M301.497 77.052V156.3M355 75v81.3"
-			></path><path fill="#DCDCDC" transform="rotate(180 328 158.5)" d="M300 157h56v3h-56z"
-			></path><path fill="#DCDCDC" d="M414 6.026h3v94.405h-3z"></path><g
-				data-element="stairs" id="Stairs"
-				transform="translate(275.483 2.539)"
-				stroke="#DCDCDC"
-				><path d="M1.916 2.084H124.96v35.04l-20.166 34.835H1.916V2.084z" stroke-width="3"></path><g
-					transform="translate(15.966 3.08)"
-					stroke-linecap="square"
-					stroke-width="2"
-					><path
-						d="M0 66.459v-66M13.973 66.459v-66M27.947 66.459v-66M41.92 66.459v-66M55.894 66.459v-66"
-					></path></g
-				></g
-			><path
-				d="M1557.044 4.5c5.934 0 11.31 2.512 15.2 6.583 3.865 4.046 6.262 9.635 6.262 15.81h0V207.62c0 6.175-2.397 11.764-6.263 15.81-3.89 4.071-9.265 6.583-15.2 6.583h0H19.964c-5.935 0-11.31-2.512-15.2-6.583-3.867-4.046-6.263-9.635-6.263-15.81h0V26.893c0-6.175 2.396-11.764 6.262-15.81 3.89-4.071 9.266-6.583 15.2-6.583h1537.082z"
-				stroke="#DFDFDF"
-				stroke-width="3"
-			></path><g transform="translate(318.77)"
-				><g transform="rotate(-90 3.266 2.945)"
-					><g transform="translate(0 .522)"
-						><path fill="#C2D6D6" d="M2 0h3v87H2z"></path><path fill="#9FC1B7" d="M0 0h3v87H0z"
-						></path></g
-					></g
-				><g transform="matrix(0 1 1 0 43.843 228.888)"
-					><path fill="#C2D6D6" d="M2 0h3v44H2z"></path><path fill="#9FC1B7" d="M0 0h3v44H0z"
-					></path></g
-				><g transform="matrix(0 1 1 0 130.121 228.888)"
-					><path fill="#C2D6D6" d="M2 0h3v101.332H2z"></path><path
-						fill="#9FC1B7"
-						d="M0 0h3v101.332H0z"
-					></path></g
-				><g transform="rotate(-90 133.043 -126.832)"
-					><path fill="#C2D6D6" d="M2 0h3v101.332H2z"></path><path
-						fill="#9FC1B7"
-						d="M0 0h3v101.332H0z"
-					></path></g
-				><g transform="matrix(0 1 1 0 259.875 228.888)"
-					><path fill="#C2D6D6" d="M2 0h3v101.332H2z"></path><path
-						fill="#9FC1B7"
-						d="M0 0h3v101.332H0z"
-					></path></g
-				><g transform="rotate(-90 197.41 -191.198)"
-					><g transform="translate(0 1.045)"
-						><path fill="#C2D6D6" d="M2 0h3v102.377H2z"></path><path
-							fill="#9FC1B7"
-							d="M0 0h3v102.377H0z"
-						></path></g
-					></g
-				><g transform="matrix(0 1 1 0 389.629 228.888)"
-					><path fill="#C2D6D6" d="M2 0h3v101.332H2z"></path><path
-						fill="#9FC1B7"
-						d="M0 0h3v101.332H0z"
-					></path></g
-				><g transform="rotate(-90 262.321 -256.11)"
-					><path fill="#C2D6D6" d="M2 0h3v99.243H2z"></path><path
-						fill="#9FC1B7"
-						d="M0 0h3v99.243H0z"
-					></path></g
-				><g transform="matrix(0 1 1 0 518.384 228.888)"
-					><path fill="#C2D6D6" d="M2 0h3v101.332H2z"></path><path
-						fill="#9FC1B7"
-						d="M0 0h3v101.332H0z"
-					></path></g
-				><g transform="rotate(-90 326.664 -320.452)"
-					><path fill="#C2D6D6" d="M2 0h3v102.377H2z"></path><path
-						fill="#9FC1B7"
-						d="M0 0h3v102.377H0z"
-					></path></g
-				><g transform="rotate(-90 391.055 -384.844)"
-					><path fill="#C2D6D6" d="M2 0h3v66H2z"></path><path fill="#9FC1B7" d="M0 0h3v66H0z"
-					></path></g
-				><g transform="matrix(0 1 1 0 647.14 228.888)"
-					><path fill="#C2D6D6" d="M2 0h3v101.332H2z"></path><path
-						fill="#9FC1B7"
-						d="M0 0h3v101.332H0z"
-					></path></g
-				><g transform="matrix(0 1 1 0 775.9 228.888)"
-					><path fill="#C2D6D6" d="M2 0h3v65H2z"></path><path fill="#9FC1B7" d="M0 0h3v65H0z"
-					></path></g
-				><g transform="rotate(-90 68.115 -62.615)"
-					><path fill="#C2D6D6" d="M2 0h3v98H2z"></path><path fill="#9FC1B7" d="M0 0h3v98H0z"
-					></path></g
-				></g
-			><g
-				transform="translate(1238.538 7.219)"
-				fill="#D8D8D8"
-				stroke="#DFDFDF"
-				stroke-linecap="square"
-				stroke-width="3"
-				><path d="M42.96 72.619v78.662M2.462.133v72.486M94.96.133v72.486M94.433 72.619H2.462"
-				></path></g
-			><path
-				d="M354.5 30.293l9.192 9.192-9.192 9.193-2.828-2.829 4.349-4.349H325.5v-4h30.55l-4.378-4.379 2.828-2.828z"
-				stroke="#FFF"
-				fill="#DCDCDC"
-			></path><g id="Stairs-" transform="translate(1185.745 158.003)"
-				><path
-					d="M129.902 71.758H1.859v-35.04L22.025 1.883h107.877v69.875z"
-					stroke="#DCDCDC"
-					stroke-width="3"
-				></path><g
-					transform="rotate(180 40.426 36.26)"
-					stroke="#DCDCDC"
-					stroke-linecap="square"
-					stroke-width="2"
-					><path
-						d="M0 70.481v-70M13.973 70.481v-70M27.947 70.481v-70M41.92 70.481v-70M55.894 70.481v-70"
-					></path></g
-				><path
-					d="M79.755 30.29l9.193 9.192-9.193 9.193-2.828-2.829 4.35-4.349H46.754v-4h34.551l-4.38-4.379 2.83-2.828z"
-					stroke="#FFF"
-					fill="#DCDCDC"
-					transform="matrix(-1 0 0 1 135.496 0)"
-				></path></g
-			></g
-		><g id="Seats" transform="translate(425 16)"
-			><g
-				data-element="seat" id="seat_66"
-				transform="translate(690 120)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="10"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:66"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_66_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path id="Line" stroke="#1B50AF" stroke-linecap="square" d="M35.419 42.5V.488"
-				></path><g id="seatnumber_66" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M2.757 5.608c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744C.549 3.336 1.78.392 5.253.392c2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304zm7.792-5.136c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744 0-3.328 1.232-6.272 4.704-6.272 2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304z"
-					></path></g
-				><g id="seatnumber_66-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M2.757 5.608c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744C.549 3.336 1.78.392 5.253.392c2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304zm7.792-5.136c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744 0-3.328 1.232-6.272 4.704-6.272 2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_66"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_65"
-				transform="translate(690 163)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="10"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:65"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_65_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path id="Line" stroke="#1B50AF" stroke-linecap="square" d="M35.419 42.5V.488"
-				></path><g id="seatnumber_65" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M2.797 5.608c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744C.589 3.336 1.82.392 5.293.392c2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304zm12.032-2.352c0-1.584-1.072-2.368-2.144-2.368-1.024 0-1.76.512-1.984 1.056l-2.016-.096L11.709.6h7.152v1.856h-5.344l-.32 2.48c.48-.352 1.232-.64 2.304-.64 1.984 0 3.824 1.408 3.824 4.08 0 2.56-1.984 4.032-4.368 4.032-2.72 0-4.16-1.856-4.288-3.856h2.08c.128 1.2.816 2.192 2.24 2.192 1.216 0 2.096-.88 2.096-2.352z"
-					></path></g
-				><g id="seatnumber_65-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M2.797 5.608c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744C.589 3.336 1.82.392 5.293.392c2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304zm12.032-2.352c0-1.584-1.072-2.368-2.144-2.368-1.024 0-1.76.512-1.984 1.056l-2.016-.096L11.709.6h7.152v1.856h-5.344l-.32 2.48c.48-.352 1.232-.64 2.304-.64 1.984 0 3.824 1.408 3.824 4.08 0 2.56-1.984 4.032-4.368 4.032-2.72 0-4.16-1.856-4.288-3.856h2.08c.128 1.2.816 2.192 2.24 2.192 1.216 0 2.096-.88 2.096-2.352z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_65"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_70"
-				transform="translate(634 120)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="10"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:70"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_70_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_70" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M.525.6h8.528v1.856C6.029 5.544 4.557 8.024 4.333 12.2H1.9c.192-4.032 2.336-7.296 4.928-9.744H.525V.6zm8.848 5.776c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368z"
-					></path></g
-				><g id="seatnumber_70-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M.525.6h8.528v1.856C6.029 5.544 4.557 8.024 4.333 12.2H1.9c.192-4.032 2.336-7.296 4.928-9.744H.525V.6zm8.848 5.776c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_70"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_69"
-				transform="translate(634 163)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="10"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:69"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_69_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_69" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M2.805 5.608c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744C.597 3.336 1.829.392 5.3.392c2.528 0 3.712 1.712 3.84 3.2H6.98c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304zm12.048-3.552c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272z"
-					></path></g
-				><g id="seatnumber_69-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M2.805 5.608c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744C.597 3.336 1.829.392 5.3.392c2.528 0 3.712 1.712 3.84 3.2H6.98c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304zm12.048-3.552c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_69"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_74"
-				transform="translate(578 120)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="9"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:74"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_74_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_74" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M.757.6h8.528v1.856C6.26 5.544 4.789 8.024 4.565 12.2H2.133c.192-4.032 2.336-7.296 4.928-9.744H.757V.6zm18.24 8.816h-1.984V12.2H14.82V9.416H9.093V7.688L14.853.6h2.16v6.944h1.984v1.872zm-7.488-1.872h3.312V3.4l-3.312 4.144z"
-					></path></g
-				><g id="seatnumber_74-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M.757.6h8.528v1.856C6.26 5.544 4.789 8.024 4.565 12.2H2.133c.192-4.032 2.336-7.296 4.928-9.744H.757V.6zm18.24 8.816h-1.984V12.2H14.82V9.416H9.093V7.688L14.853.6h2.16v6.944h1.984v1.872zm-7.488-1.872h3.312V3.4l-3.312 4.144z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_74"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_73"
-				transform="translate(578 163)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="9"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:73"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_73_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_73" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M.917.6h8.528v1.856C6.42 5.544 4.949 8.024 4.725 12.2H2.293c.192-4.032 2.336-7.296 4.928-9.744H.917V.6zm15.168 8.336c0-1.36-1.264-1.904-2.912-1.904h-.464V5.304h.384c1.664 0 2.704-.608 2.704-1.696 0-1.008-.88-1.552-1.84-1.552-1.328 0-2.176.848-2.288 2.048H9.573C9.829 1.8 11.429.392 14.085.392c1.936 0 3.936.928 3.936 3.12 0 1.12-.688 2.064-1.568 2.544a3.035 3.035 0 011.872 2.816c0 2.352-2.032 3.536-4.48 3.536-2.656 0-4.224-1.728-4.368-3.856h2.08c.16 1.168.912 2.192 2.352 2.192 1.2 0 2.176-.72 2.176-1.808z"
-					></path></g
-				><g id="seatnumber_73-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M.917.6h8.528v1.856C6.42 5.544 4.949 8.024 4.725 12.2H2.293c.192-4.032 2.336-7.296 4.928-9.744H.917V.6zm15.168 8.336c0-1.36-1.264-1.904-2.912-1.904h-.464V5.304h.384c1.664 0 2.704-.608 2.704-1.696 0-1.008-.88-1.552-1.84-1.552-1.328 0-2.176.848-2.288 2.048H9.573C9.829 1.8 11.429.392 14.085.392c1.936 0 3.936.928 3.936 3.12 0 1.12-.688 2.064-1.568 2.544a3.035 3.035 0 011.872 2.816c0 2.352-2.032 3.536-4.48 3.536-2.656 0-4.224-1.728-4.368-3.856h2.08c.16 1.168.912 2.192 2.352 2.192 1.2 0 2.176-.72 2.176-1.808z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_73"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_78"
-				transform="translate(522 120)"
-				aria-disabled="true"
-				aria-selected="false"
-				data-logical-section="9"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="false"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:78"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_78_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_78" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M.7.6H9.23v1.856C6.205 5.544 4.733 8.024 4.509 12.2H2.077c.192-4.032 2.336-7.296 4.928-9.744H.7V.6zm17.377 2.768c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896-.96-.544-1.424-1.584-1.424-2.608 0-1.728 1.584-2.992 4.032-2.992 2.464 0 4.048 1.264 4.048 2.976zm-4.048-1.312c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664s1.904-.704 1.904-1.664-.752-1.584-1.904-1.584zM11.9 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904z"
-					></path></g
-				><g id="seatnumber_78-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M.7.6H9.23v1.856C6.205 5.544 4.733 8.024 4.509 12.2H2.077c.192-4.032 2.336-7.296 4.928-9.744H.7V.6zm17.377 2.768c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896-.96-.544-1.424-1.584-1.424-2.608 0-1.728 1.584-2.992 4.032-2.992 2.464 0 4.048 1.264 4.048 2.976zm-4.048-1.312c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664s1.904-.704 1.904-1.664-.752-1.584-1.904-1.584zM11.9 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_78"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_77"
-				transform="translate(522 163)"
-				aria-disabled="true"
-				aria-selected="false"
-				data-logical-section="9"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="false"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:77"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_77_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_77" transform="translate(10 16)" fill="#1B50AF"
-					><path
-						d="M.749.6h8.528v1.856C6.253 5.544 4.78 8.024 4.557 12.2H2.125c.192-4.032 2.336-7.296 4.928-9.744H.749V.6zm8.16 0h8.528v1.856c-3.024 3.088-4.496 5.568-4.72 9.744h-2.432c.192-4.032 2.336-7.296 4.928-9.744H8.909V.6z"
-					></path></g
-				><g id="seatnumber_77-with-service-icon" transform="translate(10 16)"
-					><path
-						d="M.749.6h8.528v1.856C6.253 5.544 4.78 8.024 4.557 12.2H2.125c.192-4.032 2.336-7.296 4.928-9.744H.749V.6zm8.16 0h8.528v1.856c-3.024 3.088-4.496 5.568-4.72 9.744h-2.432c.192-4.032 2.336-7.296 4.928-9.744H8.909V.6z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_77"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_82"
-				transform="translate(466 120)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="8"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:82"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_82_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_82" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M9.365 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896-.96-.544-1.424-1.584-1.424-2.608 0-1.728 1.584-2.992 4.032-2.992 2.464 0 4.048 1.264 4.048 2.976zM5.317 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S7.22 4.6 7.22 3.64s-.752-1.584-1.904-1.584zM3.189 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm15.888-5.28c0 2.176-2.112 4.448-5.68 6.832h5.952V12.2H10.82v-1.792c3.728-3.008 6.032-4.944 6.032-6.784 0-1.008-.64-1.6-1.712-1.6-.976 0-1.968.592-1.968 2.32h-2.144c-.032-2.4 1.664-3.952 4.24-3.952 2.32 0 3.808 1.104 3.808 3.12z"
-					></path></g
-				><g id="seatnumber_82-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M9.365 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896-.96-.544-1.424-1.584-1.424-2.608 0-1.728 1.584-2.992 4.032-2.992 2.464 0 4.048 1.264 4.048 2.976zM5.317 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S7.22 4.6 7.22 3.64s-.752-1.584-1.904-1.584zM3.189 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm15.888-5.28c0 2.176-2.112 4.448-5.68 6.832h5.952V12.2H10.82v-1.792c3.728-3.008 6.032-4.944 6.032-6.784 0-1.008-.64-1.6-1.712-1.6-.976 0-1.968.592-1.968 2.32h-2.144c-.032-2.4 1.664-3.952 4.24-3.952 2.32 0 3.808 1.104 3.808 3.12z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_82"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_81"
-				transform="translate(466 163)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="8"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:81"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_81_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_81" transform="translate(11 16)" fill="#1B50AF"
-					><path
-						d="M9.045 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.429 5.448.965 4.408.965 3.384.965 1.656 2.549.392 4.997.392c2.464 0 4.048 1.264 4.048 2.976zM4.997 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.9 4.6 6.9 3.64s-.752-1.584-1.904-1.584zM2.869 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm9.76 3.408V3.528h-2.496V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6h-2.208z"
-					></path></g
-				><g id="seatnumber_81-with-service-icon" transform="translate(11 16)"
-					><path
-						d="M9.045 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.429 5.448.965 4.408.965 3.384.965 1.656 2.549.392 4.997.392c2.464 0 4.048 1.264 4.048 2.976zM4.997 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.9 4.6 6.9 3.64s-.752-1.584-1.904-1.584zM2.869 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm9.76 3.408V3.528h-2.496V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6h-2.208z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_81"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_86"
-				transform="translate(410 120)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="8"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:86"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_86_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_86" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M8.973 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.357 5.448.893 4.408.893 3.384.893 1.656 2.477.392 4.925.392c2.464 0 4.048 1.264 4.048 2.976zM4.925 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.829 4.6 6.829 3.64s-.752-1.584-1.904-1.584zM2.797 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm10.112-3.184c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744 0-3.328 1.232-6.272 4.704-6.272 2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304z"
-					></path></g
-				><g id="seatnumber_86-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M8.973 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.357 5.448.893 4.408.893 3.384.893 1.656 2.477.392 4.925.392c2.464 0 4.048 1.264 4.048 2.976zM4.925 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.829 4.6 6.829 3.64s-.752-1.584-1.904-1.584zM2.797 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm10.112-3.184c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744 0-3.328 1.232-6.272 4.704-6.272 2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_86"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_85"
-				transform="translate(410 163)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="8"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:85"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_85_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_85" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M9.013 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.397 5.448.933 4.408.933 3.384.933 1.656 2.517.392 4.965.392c2.464 0 4.048 1.264 4.048 2.976zM4.965 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.869 4.6 6.869 3.64s-.752-1.584-1.904-1.584zM2.837 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm14.352-.4c0-1.584-1.072-2.368-2.144-2.368-1.024 0-1.76.512-1.984 1.056l-2.016-.096L11.813.6h7.152v1.856H13.62l-.32 2.48c.48-.352 1.232-.64 2.304-.64 1.984 0 3.824 1.408 3.824 4.08 0 2.56-1.984 4.032-4.368 4.032-2.72 0-4.16-1.856-4.288-3.856h2.08c.128 1.2.816 2.192 2.24 2.192 1.216 0 2.096-.88 2.096-2.352z"
-					></path></g
-				><g id="seatnumber_85-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M9.013 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.397 5.448.933 4.408.933 3.384.933 1.656 2.517.392 4.965.392c2.464 0 4.048 1.264 4.048 2.976zM4.965 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.869 4.6 6.869 3.64s-.752-1.584-1.904-1.584zM2.837 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm14.352-.4c0-1.584-1.072-2.368-2.144-2.368-1.024 0-1.76.512-1.984 1.056l-2.016-.096L11.813.6h7.152v1.856H13.62l-.32 2.48c.48-.352 1.232-.64 2.304-.64 1.984 0 3.824 1.408 3.824 4.08 0 2.56-1.984 4.032-4.368 4.032-2.72 0-4.16-1.856-4.288-3.856h2.08c.128 1.2.816 2.192 2.24 2.192 1.216 0 2.096-.88 2.096-2.352z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_85"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_90"
-				transform="translate(354 120)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="15"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-attribute-code="VAS"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:90"
-				data-services="OPPOSITE"
-				><path
-					d="M40.897.5c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_90_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_90" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M6.78 7.192c-.495.624-1.423 1.104-2.655 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.255-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zm5.744 4.304c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368z"
-					></path></g
-				><g id="seatnumber_90-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M6.78 7.192c-.495.624-1.423 1.104-2.655 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.255-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zm5.744 4.304c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_90"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_89"
-				transform="translate(354 163)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="15"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-attribute-code="VAS"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:89"
-				data-services="OPPOSITE"
-				><path
-					d="M40.897.5c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_89_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_89" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M9.02 3.368c0 1.04-.415 2.016-1.407 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.405 5.448.94 4.408.94 3.384.94 1.656 2.525.392 4.973.392c2.464 0 4.048 1.264 4.048 2.976zM4.974 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.877 4.6 6.877 3.64s-.752-1.584-1.904-1.584zM2.845 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm14.368-1.6c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272z"
-					></path></g
-				><g id="seatnumber_89-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M9.02 3.368c0 1.04-.415 2.016-1.407 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.405 5.448.94 4.408.94 3.384.94 1.656 2.525.392 4.973.392c2.464 0 4.048 1.264 4.048 2.976zM4.974 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.877 4.6 6.877 3.64s-.752-1.584-1.904-1.584zM2.845 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm14.368-1.6c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_89"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_94"
-				transform="translate(280 120)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="15"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-attribute-code="VAS"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:94"
-				data-services="OPPOSITE"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_94_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_94" transform="translate(17 16)" fill="#1B50AF"
-					><path
-						d="M7.056 7.192C6.56 7.816 5.632 8.296 4.4 8.296 2.272 8.296.48 6.824.48 4.328.48 1.944 2.288.392 4.8.392c3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zM4.8 2.072c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256C6.912 2.968 6 2.072 4.8 2.072zm15.136 7.344h-1.984V12.2H15.76V9.416h-5.728V7.688L15.792.6h2.16v6.944h1.984v1.872zm-7.488-1.872h3.312V3.4l-3.312 4.144z"
-					></path></g
-				><g id="seatnumber_94-with-service-icon" transform="translate(17 16)"
-					><path
-						d="M7.056 7.192C6.56 7.816 5.632 8.296 4.4 8.296 2.272 8.296.48 6.824.48 4.328.48 1.944 2.288.392 4.8.392c3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zM4.8 2.072c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256C6.912 2.968 6 2.072 4.8 2.072zm15.136 7.344h-1.984V12.2H15.76V9.416h-5.728V7.688L15.792.6h2.16v6.944h1.984v1.872zm-7.488-1.872h3.312V3.4l-3.312 4.144z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_94"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_93"
-				transform="translate(280 163)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="15"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-attribute-code="VAS"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:93"
-				data-services="OPPOSITE"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_93_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_93" transform="translate(17 16)" fill="#1B50AF"
-					><path
-						d="M7.216 7.192c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968C.64 1.944 2.448.392 4.96.392c3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zM4.96 2.072c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zm12.064 6.864c0-1.36-1.264-1.904-2.912-1.904h-.464V5.304h.384c1.664 0 2.704-.608 2.704-1.696 0-1.008-.88-1.552-1.84-1.552-1.328 0-2.176.848-2.288 2.048h-2.096C10.768 1.8 12.368.392 15.024.392c1.936 0 3.936.928 3.936 3.12 0 1.12-.688 2.064-1.568 2.544a3.035 3.035 0 011.872 2.816c0 2.352-2.032 3.536-4.48 3.536-2.656 0-4.224-1.728-4.368-3.856h2.08c.16 1.168.912 2.192 2.352 2.192 1.2 0 2.176-.72 2.176-1.808z"
-					></path></g
-				><g id="seatnumber_93-with-service-icon" transform="translate(17 16)"
-					><path
-						d="M7.216 7.192c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968C.64 1.944 2.448.392 4.96.392c3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zM4.96 2.072c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zm12.064 6.864c0-1.36-1.264-1.904-2.912-1.904h-.464V5.304h.384c1.664 0 2.704-.608 2.704-1.696 0-1.008-.88-1.552-1.84-1.552-1.328 0-2.176.848-2.288 2.048h-2.096C10.768 1.8 12.368.392 15.024.392c1.936 0 3.936.928 3.936 3.12 0 1.12-.688 2.064-1.568 2.544a3.035 3.035 0 011.872 2.816c0 2.352-2.032 3.536-4.48 3.536-2.656 0-4.224-1.728-4.368-3.856h2.08c.16 1.168.912 2.192 2.352 2.192 1.2 0 2.176-.72 2.176-1.808z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_93"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_98"
-				transform="translate(224 120)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="11"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:98"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_98_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_98" transform="translate(17 16)" fill="#1B50AF"
-					><path
-						d="M7 7.192c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504C6.104 10.712 7 9.336 7 7.192zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zm14.272 1.296c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896-.96-.544-1.424-1.584-1.424-2.608 0-1.728 1.584-2.992 4.032-2.992 2.464 0 4.048 1.264 4.048 2.976zm-4.048-1.312c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664s1.904-.704 1.904-1.664-.752-1.584-1.904-1.584zM12.84 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904z"
-					></path></g
-				><g id="seatnumber_98-with-service-icon" transform="translate(17 16)"
-					><path
-						d="M7 7.192c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504C6.104 10.712 7 9.336 7 7.192zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zm14.272 1.296c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896-.96-.544-1.424-1.584-1.424-2.608 0-1.728 1.584-2.992 4.032-2.992 2.464 0 4.048 1.264 4.048 2.976zm-4.048-1.312c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664s1.904-.704 1.904-1.664-.752-1.584-1.904-1.584zM12.84 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_98"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_97"
-				transform="translate(224 163)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="11"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:97"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_97_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_97" transform="translate(18 16)" fill="#1B50AF"
-					><path
-						d="M7.048 7.192c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968C.472 1.944 2.28.392 4.792.392c3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zM9.848.6h8.528v1.856c-3.024 3.088-4.496 5.568-4.72 9.744h-2.432c.192-4.032 2.336-7.296 4.928-9.744H9.848V.6z"
-					></path></g
-				><g id="seatnumber_97-with-service-icon" transform="translate(18 16)"
-					><path
-						d="M7.048 7.192c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968C.472 1.944 2.28.392 4.792.392c3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zM9.848.6h8.528v1.856c-3.024 3.088-4.496 5.568-4.72 9.744h-2.432c.192-4.032 2.336-7.296 4.928-9.744H9.848V.6z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_97"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_102"
-				transform="translate(168 120)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="11"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:102"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_102_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_102" transform="translate(14 16)" fill="#1B50AF"
-					><path
-						d="M2.608 12.2V3.528H.112V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H2.608zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm11.52-2.864c0 2.176-2.112 4.448-5.68 6.832h5.952V12.2h-8.528v-1.792c3.728-3.008 6.032-4.944 6.032-6.784 0-1.008-.64-1.6-1.712-1.6-.976 0-1.968.592-1.968 2.32H17.2c-.032-2.4 1.664-3.952 4.24-3.952 2.32 0 3.808 1.104 3.808 3.12z"
-					></path></g
-				><g id="seatnumber_102-with-service-icon" transform="translate(14 16)"
-					><path
-						d="M2.608 12.2V3.528H.112V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H2.608zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm11.52-2.864c0 2.176-2.112 4.448-5.68 6.832h5.952V12.2h-8.528v-1.792c3.728-3.008 6.032-4.944 6.032-6.784 0-1.008-.64-1.6-1.712-1.6-.976 0-1.968.592-1.968 2.32H17.2c-.032-2.4 1.664-3.952 4.24-3.952 2.32 0 3.808 1.104 3.808 3.12z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_102"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_101"
-				transform="translate(168 163)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="11"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:101"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_101_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_101" transform="translate(15 16)" fill="#1B50AF"
-					><path
-						d="M3.288 12.2V3.528H.792V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H3.288zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zM19.8 12.2V3.528h-2.496V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H19.8z"
-					></path></g
-				><g id="seatnumber_101-with-service-icon" transform="translate(15 16)"
-					><path
-						d="M3.288 12.2V3.528H.792V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H3.288zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zM19.8 12.2V3.528h-2.496V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H19.8z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_101"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_106"
-				transform="translate(112 120)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="12"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:106"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_106_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_106" transform="translate(13 16)" fill="#1B50AF"
-					><path
-						d="M3.216 12.2V3.528H.72V2.024C2.4 1.976 3.184 1.864 3.744.6h1.68v11.6H3.216zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32S9.52 3.608 9.52 6.376c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm5.744-.768c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744 0-3.328 1.232-6.272 4.704-6.272 2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304z"
-					></path></g
-				><g id="seatnumber_106-with-service-icon" transform="translate(13 16)"
-					><path
-						d="M3.216 12.2V3.528H.72V2.024C2.4 1.976 3.184 1.864 3.744.6h1.68v11.6H3.216zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32S9.52 3.608 9.52 6.376c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm5.744-.768c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744 0-3.328 1.232-6.272 4.704-6.272 2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_106"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_105"
-				transform="translate(112 163)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="12"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:105"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_105_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_105" transform="translate(13 16)" fill="#1B50AF"
-					><path
-						d="M3.256 12.2V3.528H.76V2.024C2.44 1.976 3.224 1.864 3.784.6h1.68v11.6H3.256zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32S9.56 3.608 9.56 6.376c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm9.984 2.016c0-1.584-1.072-2.368-2.144-2.368-1.024 0-1.76.512-1.984 1.056l-2.016-.096L18.984.6h7.152v1.856h-5.344l-.32 2.48c.48-.352 1.232-.64 2.304-.64 1.984 0 3.824 1.408 3.824 4.08 0 2.56-1.984 4.032-4.368 4.032-2.72 0-4.16-1.856-4.288-3.856h2.08c.128 1.2.816 2.192 2.24 2.192 1.216 0 2.096-.88 2.096-2.352z"
-					></path></g
-				><g id="seatnumber_105-with-service-icon" transform="translate(13 16)"
-					><path
-						d="M3.256 12.2V3.528H.76V2.024C2.44 1.976 3.224 1.864 3.784.6h1.68v11.6H3.256zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32S9.56 3.608 9.56 6.376c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm9.984 2.016c0-1.584-1.072-2.368-2.144-2.368-1.024 0-1.76.512-1.984 1.056l-2.016-.096L18.984.6h7.152v1.856h-5.344l-.32 2.48c.48-.352 1.232-.64 2.304-.64 1.984 0 3.824 1.408 3.824 4.08 0 2.56-1.984 4.032-4.368 4.032-2.72 0-4.16-1.856-4.288-3.856h2.08c.128 1.2.816 2.192 2.24 2.192 1.216 0 2.096-.88 2.096-2.352z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_105"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_110"
-				transform="translate(56 120)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="12"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:110"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_110_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_110" transform="translate(15 16)" fill="#1B50AF"
-					><path
-						d="M3.288 12.2V3.528H.792V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H3.288zm5.904 0V3.528H6.696V2.024C8.376 1.976 9.16 1.864 9.72.6h1.68v11.6H9.192zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368z"
-					></path></g
-				><g id="seatnumber_110-with-service-icon" transform="translate(15 16)"
-					><path
-						d="M3.288 12.2V3.528H.792V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H3.288zm5.904 0V3.528H6.696V2.024C8.376 1.976 9.16 1.864 9.72.6h1.68v11.6H9.192zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_110"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_109"
-				transform="translate(56 163)"
-				aria-disabled="true"
-				aria-selected="false"
-				data-logical-section="12"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="false"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:109"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_109_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_109" transform="translate(13 16)" fill="#1B50AF"
-					><path
-						d="M3.264 12.2V3.528H.768V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H3.264zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm10 .816c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272z"
-					></path></g
-				><g id="seatnumber_109-with-service-icon" transform="translate(13 16)"
-					><path
-						d="M3.264 12.2V3.528H.768V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H3.264zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm10 .816c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_109"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_113"
-				transform="translate(0 163)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="13"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:113"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_113_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_113" transform="translate(16 16)" fill="#1B50AF"
-					><path
-						d="M2.68 12.2V3.528H.184V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H2.68zm5.904 0V3.528H6.088V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H8.584zm10.368-3.264c0-1.36-1.264-1.904-2.912-1.904h-.464V5.304h.384c1.664 0 2.704-.608 2.704-1.696 0-1.008-.88-1.552-1.84-1.552-1.328 0-2.176.848-2.288 2.048H12.44C12.696 1.8 14.296.392 16.952.392c1.936 0 3.936.928 3.936 3.12 0 1.12-.688 2.064-1.568 2.544a3.035 3.035 0 011.872 2.816c0 2.352-2.032 3.536-4.48 3.536-2.656 0-4.224-1.728-4.368-3.856h2.08c.16 1.168.912 2.192 2.352 2.192 1.2 0 2.176-.72 2.176-1.808z"
-					></path></g
-				><g id="seatnumber_113-with-service-icon" transform="translate(16 16)"
-					><path
-						d="M2.68 12.2V3.528H.184V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H2.68zm5.904 0V3.528H6.088V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H8.584zm10.368-3.264c0-1.36-1.264-1.904-2.912-1.904h-.464V5.304h.384c1.664 0 2.704-.608 2.704-1.696 0-1.008-.88-1.552-1.84-1.552-1.328 0-2.176.848-2.288 2.048H12.44C12.696 1.8 14.296.392 16.952.392c1.936 0 3.936.928 3.936 3.12 0 1.12-.688 2.064-1.568 2.544a3.035 3.035 0 011.872 2.816c0 2.352-2.032 3.536-4.48 3.536-2.656 0-4.224-1.728-4.368-3.856h2.08c.16 1.168.912 2.192 2.352 2.192 1.2 0 2.176-.72 2.176-1.808z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_113"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_68"
-				transform="translate(690 43)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="10"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:68"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_68_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path id="Line" stroke="#1B50AF" stroke-linecap="square" d="M35.419 42.5V.488"
-				></path><g id="seatnumber_68" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M2.653 5.608c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744C.445 3.336 1.677.392 5.149.392c2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304zM19.02 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896-.96-.544-1.424-1.584-1.424-2.608 0-1.728 1.584-2.992 4.032-2.992 2.464 0 4.048 1.264 4.048 2.976zm-4.048-1.312c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664s1.904-.704 1.904-1.664-.752-1.584-1.904-1.584zm-2.128 6.736c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904z"
-					></path></g
-				><g id="seatnumber_68-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M2.653 5.608c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744C.445 3.336 1.677.392 5.149.392c2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304zM19.02 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896-.96-.544-1.424-1.584-1.424-2.608 0-1.728 1.584-2.992 4.032-2.992 2.464 0 4.048 1.264 4.048 2.976zm-4.048-1.312c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664s1.904-.704 1.904-1.664-.752-1.584-1.904-1.584zm-2.128 6.736c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_68"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_67"
-				transform="translate(690)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="10"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:67"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_67_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path id="Line" stroke="#1B50AF" stroke-linecap="square" d="M35.419 42.5V.488"
-				></path><g id="seatnumber_67" transform="translate(10.493 16.392)" fill="#1B50AF"
-					><path
-						d="M2.208 5.216c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936C1.36 12.016 0 9.52 0 6.272 0 2.944 1.232 0 4.704 0c2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304zM9.36.208h8.528v1.856c-3.024 3.088-4.496 5.568-4.72 9.744h-2.432c.192-4.032 2.336-7.296 4.928-9.744H9.36V.208z"
-					></path></g
-				><g id="seatnumber_67-with-service-icon" transform="translate(10.493 16.392)"
-					><path
-						d="M2.208 5.216c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936C1.36 12.016 0 9.52 0 6.272 0 2.944 1.232 0 4.704 0c2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304zM9.36.208h8.528v1.856c-3.024 3.088-4.496 5.568-4.72 9.744h-2.432c.192-4.032 2.336-7.296 4.928-9.744H9.36V.208z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_67"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_72"
-				transform="translate(634 43)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="10"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:72"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_72_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_72" transform="translate(10 16)" fill="#1B50AF"
-					><path
-						d="M.197.6h8.528v1.856C5.7 5.544 4.229 8.024 4.005 12.2H1.573C1.765 8.168 3.909 4.904 6.5 2.456H.197V.6zm16.832 2.912c0 2.176-2.112 4.448-5.68 6.832H17.3V12.2H8.773v-1.792C12.5 7.4 14.805 5.464 14.805 3.624c0-1.008-.64-1.6-1.712-1.6-.976 0-1.968.592-1.968 2.32H8.98c-.032-2.4 1.664-3.952 4.24-3.952 2.32 0 3.808 1.104 3.808 3.12z"
-					></path></g
-				><g id="seatnumber_72-with-service-icon" transform="translate(10 16)"
-					><path
-						d="M.197.6h8.528v1.856C5.7 5.544 4.229 8.024 4.005 12.2H1.573C1.765 8.168 3.909 4.904 6.5 2.456H.197V.6zm16.832 2.912c0 2.176-2.112 4.448-5.68 6.832H17.3V12.2H8.773v-1.792C12.5 7.4 14.805 5.464 14.805 3.624c0-1.008-.64-1.6-1.712-1.6-.976 0-1.968.592-1.968 2.32H8.98c-.032-2.4 1.664-3.952 4.24-3.952 2.32 0 3.808 1.104 3.808 3.12z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_72"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_71"
-				transform="translate(634)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="10"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:71"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_71_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_71" transform="translate(11 16)" fill="#1B50AF"
-					><path
-						d="M.877.6h8.528v1.856C6.38 5.544 4.909 8.024 4.685 12.2H2.253c.192-4.032 2.336-7.296 4.928-9.744H.877V.6zM11.58 12.2V3.528H9.085V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H11.58z"
-					></path></g
-				><g id="seatnumber_71-with-service-icon" transform="translate(11 16)"
-					><path
-						d="M.877.6h8.528v1.856C6.38 5.544 4.909 8.024 4.685 12.2H2.253c.192-4.032 2.336-7.296 4.928-9.744H.877V.6zM11.58 12.2V3.528H9.085V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H11.58z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_71"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_76"
-				transform="translate(578 43)"
-				aria-disabled="true"
-				aria-selected="false"
-				data-logical-section="9"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="false"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:76"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_76_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_76" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M.805.6h8.528v1.856C6.309 5.544 4.837 8.024 4.613 12.2H2.18c.192-4.032 2.336-7.296 4.928-9.744H.805V.6zM11.86 5.608c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744 0-3.328 1.232-6.272 4.704-6.272 2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304z"
-					></path></g
-				><g id="seatnumber_76-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M.805.6h8.528v1.856C6.309 5.544 4.837 8.024 4.613 12.2H2.18c.192-4.032 2.336-7.296 4.928-9.744H.805V.6zM11.86 5.608c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744 0-3.328 1.232-6.272 4.704-6.272 2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_76"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_75"
-				transform="translate(578)"
-				aria-disabled="true"
-				aria-selected="false"
-				data-logical-section="9"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="false"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:75"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_75_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_75" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M.845.6h8.528v1.856C6.349 5.544 4.877 8.024 4.653 12.2H2.22c.192-4.032 2.336-7.296 4.928-9.744H.845V.6zM16.14 8.392c0-1.584-1.072-2.368-2.144-2.368-1.024 0-1.76.512-1.984 1.056l-2.016-.096L10.765.6h7.152v1.856h-5.344l-.32 2.48c.48-.352 1.232-.64 2.304-.64 1.984 0 3.824 1.408 3.824 4.08 0 2.56-1.984 4.032-4.368 4.032-2.72 0-4.16-1.856-4.288-3.856h2.08c.128 1.2.816 2.192 2.24 2.192 1.216 0 2.096-.88 2.096-2.352z"
-					></path></g
-				><g id="seatnumber_75-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M.845.6h8.528v1.856C6.349 5.544 4.877 8.024 4.653 12.2H2.22c.192-4.032 2.336-7.296 4.928-9.744H.845V.6zM16.14 8.392c0-1.584-1.072-2.368-2.144-2.368-1.024 0-1.76.512-1.984 1.056l-2.016-.096L10.765.6h7.152v1.856h-5.344l-.32 2.48c.48-.352 1.232-.64 2.304-.64 1.984 0 3.824 1.408 3.824 4.08 0 2.56-1.984 4.032-4.368 4.032-2.72 0-4.16-1.856-4.288-3.856h2.08c.128 1.2.816 2.192 2.24 2.192 1.216 0 2.096-.88 2.096-2.352z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_75"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_80"
-				transform="translate(522 43)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="9"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:80"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_80_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_80" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M8.693 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.077 5.448.613 4.408.613 3.384.613 1.656 2.197.392 4.645.392c2.464 0 4.048 1.264 4.048 2.976zM4.645 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.549 4.6 6.549 3.64s-.752-1.584-1.904-1.584zM2.517 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm7.904-2.416c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368z"
-					></path></g
-				><g id="seatnumber_80-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M8.693 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.077 5.448.613 4.408.613 3.384.613 1.656 2.197.392 4.645.392c2.464 0 4.048 1.264 4.048 2.976zM4.645 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.549 4.6 6.549 3.64s-.752-1.584-1.904-1.584zM2.517 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm7.904-2.416c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_80"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_79"
-				transform="translate(522)"
-				aria-disabled="true"
-				aria-selected="false"
-				data-logical-section="9"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="false"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:79"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_79_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_79" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M.853.6H9.38v1.856C6.357 5.544 4.885 8.024 4.66 12.2H2.229c.192-4.032 2.336-7.296 4.928-9.744H.853V.6zm15.312 6.592c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272z"
-					></path></g
-				><g id="seatnumber_79-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M.853.6H9.38v1.856C6.357 5.544 4.885 8.024 4.66 12.2H2.229c.192-4.032 2.336-7.296 4.928-9.744H.853V.6zm15.312 6.592c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_79"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_84"
-				transform="translate(466 43)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="8"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:84"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_84_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_84" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M8.925 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.309 5.448.845 4.408.845 3.384.845 1.656 2.429.392 4.877.392c2.464 0 4.048 1.264 4.048 2.976zM4.877 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.78 4.6 6.78 3.64s-.752-1.584-1.904-1.584zM2.749 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm17.296.624H18.06V12.2h-2.192V9.416H10.14V7.688L15.9.6h2.16v6.944h1.984v1.872zm-7.488-1.872h3.312V3.4l-3.312 4.144z"
-					></path></g
-				><g id="seatnumber_84-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M8.925 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.309 5.448.845 4.408.845 3.384.845 1.656 2.429.392 4.877.392c2.464 0 4.048 1.264 4.048 2.976zM4.877 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.78 4.6 6.78 3.64s-.752-1.584-1.904-1.584zM2.749 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm17.296.624H18.06V12.2h-2.192V9.416H10.14V7.688L15.9.6h2.16v6.944h1.984v1.872zm-7.488-1.872h3.312V3.4l-3.312 4.144z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_84"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_83"
-				transform="translate(466)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="8"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:83"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_83_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_83" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M9.085 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896-.96-.544-1.424-1.584-1.424-2.608 0-1.728 1.584-2.992 4.032-2.992 2.464 0 4.048 1.264 4.048 2.976zM5.037 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.94 4.6 6.94 3.64s-.752-1.584-1.904-1.584zM2.909 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm14.224.144c0-1.36-1.264-1.904-2.912-1.904h-.464V5.304h.384c1.664 0 2.704-.608 2.704-1.696 0-1.008-.88-1.552-1.84-1.552-1.328 0-2.176.848-2.288 2.048H10.62C10.877 1.8 12.477.392 15.133.392c1.936 0 3.936.928 3.936 3.12 0 1.12-.688 2.064-1.568 2.544a3.035 3.035 0 011.872 2.816c0 2.352-2.032 3.536-4.48 3.536-2.656 0-4.224-1.728-4.368-3.856h2.08c.16 1.168.912 2.192 2.352 2.192 1.2 0 2.176-.72 2.176-1.808z"
-					></path></g
-				><g id="seatnumber_83-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M9.085 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896-.96-.544-1.424-1.584-1.424-2.608 0-1.728 1.584-2.992 4.032-2.992 2.464 0 4.048 1.264 4.048 2.976zM5.037 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.94 4.6 6.94 3.64s-.752-1.584-1.904-1.584zM2.909 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904zm14.224.144c0-1.36-1.264-1.904-2.912-1.904h-.464V5.304h.384c1.664 0 2.704-.608 2.704-1.696 0-1.008-.88-1.552-1.84-1.552-1.328 0-2.176.848-2.288 2.048H10.62C10.877 1.8 12.477.392 15.133.392c1.936 0 3.936.928 3.936 3.12 0 1.12-.688 2.064-1.568 2.544a3.035 3.035 0 011.872 2.816c0 2.352-2.032 3.536-4.48 3.536-2.656 0-4.224-1.728-4.368-3.856h2.08c.16 1.168.912 2.192 2.352 2.192 1.2 0 2.176-.72 2.176-1.808z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_83"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_88"
-				transform="translate(410 43)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="8"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:88"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_88_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_88" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M8.869 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.253 5.448.789 4.408.789 3.384.789 1.656 2.373.392 4.82.392c2.464 0 4.048 1.264 4.048 2.976zM4.82 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.725 4.6 6.725 3.64 5.973 2.056 4.82 2.056zM2.693 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952S6.133 6.888 4.82 6.888c-1.296 0-2.128.752-2.128 1.904zm16.432-5.424c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896-.96-.544-1.424-1.584-1.424-2.608 0-1.728 1.584-2.992 4.032-2.992 2.464 0 4.048 1.264 4.048 2.976zm-4.048-1.312c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S16.98 4.6 16.98 3.64s-.752-1.584-1.904-1.584zm-2.128 6.736c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904z"
-					></path></g
-				><g id="seatnumber_88-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M8.869 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.253 5.448.789 4.408.789 3.384.789 1.656 2.373.392 4.82.392c2.464 0 4.048 1.264 4.048 2.976zM4.82 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.725 4.6 6.725 3.64 5.973 2.056 4.82 2.056zM2.693 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952S6.133 6.888 4.82 6.888c-1.296 0-2.128.752-2.128 1.904zm16.432-5.424c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896-.96-.544-1.424-1.584-1.424-2.608 0-1.728 1.584-2.992 4.032-2.992 2.464 0 4.048 1.264 4.048 2.976zm-4.048-1.312c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S16.98 4.6 16.98 3.64s-.752-1.584-1.904-1.584zm-2.128 6.736c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_88"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_87"
-				transform="translate(410)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="8"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:87"
-				><path
-					d="M.5.5h40.397c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_87_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_87" transform="translate(10 16)" fill="#1B50AF"
-					><path
-						d="M8.917 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.3 5.448.837 4.408.837 3.384.837 1.656 2.42.392 4.869.392c2.464 0 4.048 1.264 4.048 2.976zM4.869 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.773 4.6 6.773 3.64 6.02 2.056 4.869 2.056zM2.74 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952S6.18 6.888 4.869 6.888c-1.296 0-2.128.752-2.128 1.904zM9.957.6h8.528v1.856c-3.024 3.088-4.496 5.568-4.72 9.744h-2.432c.192-4.032 2.336-7.296 4.928-9.744H9.957V.6z"
-					></path></g
-				><g id="seatnumber_87-with-service-icon" transform="translate(10 16)"
-					><path
-						d="M8.917 3.368c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896C1.3 5.448.837 4.408.837 3.384.837 1.656 2.42.392 4.869.392c2.464 0 4.048 1.264 4.048 2.976zM4.869 2.056c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664S6.773 4.6 6.773 3.64 6.02 2.056 4.869 2.056zM2.74 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952S6.18 6.888 4.869 6.888c-1.296 0-2.128.752-2.128 1.904zM9.957.6h8.528v1.856c-3.024 3.088-4.496 5.568-4.72 9.744h-2.432c.192-4.032 2.336-7.296 4.928-9.744H9.957V.6z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_87"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_92"
-				transform="translate(354 43)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="14"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-attribute-code="VAS"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:92"
-				data-services="OPPOSITE"
-				><path
-					d="M40.897.5c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_92_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_92" transform="translate(9 16)" fill="#1B50AF"
-					><path
-						d="M7.453 7.192c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936C8.3.392 9.66 2.888 9.66 6.136c0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zm13.728 1.44c0 2.176-2.112 4.448-5.68 6.832h5.952V12.2h-8.528v-1.792C14.397 7.4 16.7 5.464 16.7 3.624c0-1.008-.64-1.6-1.712-1.6-.976 0-1.968.592-1.968 2.32h-2.144c-.032-2.4 1.664-3.952 4.24-3.952 2.32 0 3.808 1.104 3.808 3.12z"
-					></path></g
-				><g id="seatnumber_92-with-service-icon" transform="translate(9 16)"
-					><path
-						d="M7.453 7.192c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936C8.3.392 9.66 2.888 9.66 6.136c0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zm13.728 1.44c0 2.176-2.112 4.448-5.68 6.832h5.952V12.2h-8.528v-1.792C14.397 7.4 16.7 5.464 16.7 3.624c0-1.008-.64-1.6-1.712-1.6-.976 0-1.968.592-1.968 2.32h-2.144c-.032-2.4 1.664-3.952 4.24-3.952 2.32 0 3.808 1.104 3.808 3.12z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_92"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_91"
-				transform="translate(354)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="14"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-attribute-code="VAS"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:91"
-				data-services="OPPOSITE"
-				><path
-					d="M40.897.5c.967 0 1.842.392 2.475 1.025A3.489 3.489 0 0144.397 4h0v35c0 .966-.392 1.841-1.025 2.475a3.489 3.489 0 01-2.475 1.025h0H.5V.5z"
-					data-element="seat" id="seat_91_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-					transform="rotate(-180 22.449 21.5)"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M35.419 42.5V.488"
-				></path><g id="seatnumber_91" transform="translate(11 16)" fill="#1B50AF"
-					><path
-						d="M7.133 7.192c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936C7.98.392 9.34 2.888 9.34 6.136c0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zm7.6 10.128V3.528H9.98V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6h-2.208z"
-					></path></g
-				><g id="seatnumber_91-with-service-icon" transform="translate(11 16)"
-					><path
-						d="M7.133 7.192c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936C7.98.392 9.34 2.888 9.34 6.136c0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zm7.6 10.128V3.528H9.98V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6h-2.208z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_91"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_96"
-				transform="translate(280 43)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="14"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-attribute-code="VAS"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:96"
-				data-services="OPPOSITE"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_96_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_96" transform="translate(17.528 16.392)" fill="#1B50AF"
-					><path
-						d="M6.576 6.8c-.496.624-1.424 1.104-2.656 1.104C1.792 7.904 0 6.432 0 3.936 0 1.552 1.808 0 4.32 0c3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2H2.4c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zM4.32 1.68c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zm7.952 3.536c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744C10.064 2.944 11.296 0 14.768 0c2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304z"
-					></path></g
-				><g id="seatnumber_96-with-service-icon" transform="translate(17.528 16.392)"
-					><path
-						d="M6.576 6.8c-.496.624-1.424 1.104-2.656 1.104C1.792 7.904 0 6.432 0 3.936 0 1.552 1.808 0 4.32 0c3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2H2.4c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zM4.32 1.68c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zm7.952 3.536c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744C10.064 2.944 11.296 0 14.768 0c2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_96"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_95"
-				transform="translate(280)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="14"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-attribute-code="VAS"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:95"
-				data-services="OPPOSITE"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_95_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_95" transform="translate(17 16)" fill="#1B50AF"
-					><path
-						d="M7.144 7.192c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256C6.088 6.6 7 5.704 7 4.344c0-1.376-.912-2.272-2.112-2.272zm12.192 6.32c0-1.584-1.072-2.368-2.144-2.368-1.024 0-1.76.512-1.984 1.056l-2.016-.096L11.704.6h7.152v1.856h-5.344l-.32 2.48c.48-.352 1.232-.64 2.304-.64 1.984 0 3.824 1.408 3.824 4.08 0 2.56-1.984 4.032-4.368 4.032-2.72 0-4.16-1.856-4.288-3.856h2.08c.128 1.2.816 2.192 2.24 2.192 1.216 0 2.096-.88 2.096-2.352z"
-					></path></g
-				><g id="seatnumber_95-with-service-icon" transform="translate(17 16)"
-					><path
-						d="M7.144 7.192c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256C6.088 6.6 7 5.704 7 4.344c0-1.376-.912-2.272-2.112-2.272zm12.192 6.32c0-1.584-1.072-2.368-2.144-2.368-1.024 0-1.76.512-1.984 1.056l-2.016-.096L11.704.6h7.152v1.856h-5.344l-.32 2.48c.48-.352 1.232-.64 2.304-.64 1.984 0 3.824 1.408 3.824 4.08 0 2.56-1.984 4.032-4.368 4.032-2.72 0-4.16-1.856-4.288-3.856h2.08c.128 1.2.816 2.192 2.24 2.192 1.216 0 2.096-.88 2.096-2.352z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_95"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_100"
-				transform="translate(224 43)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="11"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:100"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_100_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_100" transform="translate(13 16)" fill="#1B50AF"
-					><path
-						d="M2.936 12.2V3.528H.44V2.024C2.12 1.976 2.904 1.864 3.464.6h1.68v11.6H2.936zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32S9.24 3.608 9.24 6.376c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm3.536 0c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368z"
-					></path></g
-				><g id="seatnumber_100-with-service-icon" transform="translate(13 16)"
-					><path
-						d="M2.936 12.2V3.528H.44V2.024C2.12 1.976 2.904 1.864 3.464.6h1.68v11.6H2.936zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32S9.24 3.608 9.24 6.376c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm3.536 0c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_100"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_99"
-				transform="translate(224)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="11"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:99"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_99_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_99" transform="translate(17 16)" fill="#1B50AF"
-					><path
-						d="M7.152 7.192c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936C8 .392 9.36 2.888 9.36 6.136c0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zm12.208 5.12c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272z"
-					></path></g
-				><g id="seatnumber_99-with-service-icon" transform="translate(17 16)"
-					><path
-						d="M7.152 7.192c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936C8 .392 9.36 2.888 9.36 6.136c0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272zm12.208 5.12c-.496.624-1.424 1.104-2.656 1.104-2.128 0-3.92-1.472-3.92-3.968 0-2.384 1.808-3.936 4.32-3.936 3.104 0 4.464 2.496 4.464 5.744 0 3.328-1.248 6.272-4.704 6.272-2.528 0-3.712-1.728-3.84-3.2h2.16c.112.96.864 1.504 1.824 1.504 1.456 0 2.352-1.376 2.352-3.52zm-2.256-5.12c-1.2 0-2.08.88-2.08 2.272 0 1.36.88 2.256 2.08 2.256 1.2 0 2.112-.896 2.112-2.256 0-1.376-.912-2.272-2.112-2.272z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_99"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_104"
-				transform="translate(168 43)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="11"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:104"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_104_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_104" transform="translate(13.672 16.392)" fill="#1B50AF"
-					><path
-						d="M2.496 11.808V3.136H0V1.632c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H2.496zm4.048-5.824C6.544 2.464 8.112 0 11.216 0c3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32S8.8 3.216 8.8 5.984c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm12.928 3.04H24.56v2.784h-2.192V9.024H16.64V7.296L22.4.208h2.16v6.944h1.984v1.872zm-7.488-1.872h3.312V3.008l-3.312 4.144z"
-					></path></g
-				><g id="seatnumber_104-with-service-icon" transform="translate(13.672 16.392)"
-					><path
-						d="M2.496 11.808V3.136H0V1.632c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H2.496zm4.048-5.824C6.544 2.464 8.112 0 11.216 0c3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32S8.8 3.216 8.8 5.984c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm12.928 3.04H24.56v2.784h-2.192V9.024H16.64V7.296L22.4.208h2.16v6.944h1.984v1.872zm-7.488-1.872h3.312V3.008l-3.312 4.144z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_104"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_103"
-				transform="translate(168)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="11"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:103"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_103_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_103" transform="translate(13 16)" fill="#1B50AF"
-					><path
-						d="M3.328 12.2V3.528H.832V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H3.328zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm9.856 2.56c0-1.36-1.264-1.904-2.912-1.904h-.464V5.304h.384c1.664 0 2.704-.608 2.704-1.696 0-1.008-.88-1.552-1.84-1.552-1.328 0-2.176.848-2.288 2.048h-2.096C18.048 1.8 19.648.392 22.304.392c1.936 0 3.936.928 3.936 3.12 0 1.12-.688 2.064-1.568 2.544a3.035 3.035 0 011.872 2.816c0 2.352-2.032 3.536-4.48 3.536-2.656 0-4.224-1.728-4.368-3.856h2.08c.16 1.168.912 2.192 2.352 2.192 1.2 0 2.176-.72 2.176-1.808z"
-					></path></g
-				><g id="seatnumber_103-with-service-icon" transform="translate(13 16)"
-					><path
-						d="M3.328 12.2V3.528H.832V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H3.328zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm9.856 2.56c0-1.36-1.264-1.904-2.912-1.904h-.464V5.304h.384c1.664 0 2.704-.608 2.704-1.696 0-1.008-.88-1.552-1.84-1.552-1.328 0-2.176.848-2.288 2.048h-2.096C18.048 1.8 19.648.392 22.304.392c1.936 0 3.936.928 3.936 3.12 0 1.12-.688 2.064-1.568 2.544a3.035 3.035 0 011.872 2.816c0 2.352-2.032 3.536-4.48 3.536-2.656 0-4.224-1.728-4.368-3.856h2.08c.16 1.168.912 2.192 2.352 2.192 1.2 0 2.176-.72 2.176-1.808z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_103"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_108"
-				transform="translate(112 43)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="12"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:108"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_108_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_108" transform="translate(13 16)" fill="#1B50AF"
-					><path
-						d="M3.112 12.2V3.528H.616V2.024C2.296 1.976 3.08 1.864 3.64.6h1.68v11.6H3.112zM7.16 6.376c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm12.064-3.008c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896-.96-.544-1.424-1.584-1.424-2.608 0-1.728 1.584-2.992 4.032-2.992 2.464 0 4.048 1.264 4.048 2.976zm-4.048-1.312c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664s1.904-.704 1.904-1.664-.752-1.584-1.904-1.584zM20.12 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904z"
-					></path></g
-				><g id="seatnumber_108-with-service-icon" transform="translate(13 16)"
-					><path
-						d="M3.112 12.2V3.528H.616V2.024C2.296 1.976 3.08 1.864 3.64.6h1.68v11.6H3.112zM7.16 6.376c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zm12.064-3.008c0 1.04-.416 2.016-1.408 2.624 1.296.736 1.76 1.776 1.76 2.896 0 2.272-1.936 3.52-4.4 3.52-2.448 0-4.384-1.248-4.384-3.52 0-1.12.48-2.176 1.776-2.896-.96-.544-1.424-1.584-1.424-2.608 0-1.728 1.584-2.992 4.032-2.992 2.464 0 4.048 1.264 4.048 2.976zm-4.048-1.312c-1.152 0-1.888.624-1.888 1.584 0 .96.736 1.664 1.888 1.664s1.904-.704 1.904-1.664-.752-1.584-1.904-1.584zM20.12 8.792c0 1.152.832 1.952 2.128 1.952 1.312 0 2.144-.8 2.144-1.952s-.832-1.904-2.144-1.904c-1.296 0-2.128.752-2.128 1.904z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_108"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_107"
-				transform="translate(112)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="12"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:107"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_107_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_107" transform="translate(14 16)" fill="#1B50AF"
-					><path
-						d="M3.16 12.2V3.528H.664V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H3.16zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zM17.128.6h8.528v1.856c-3.024 3.088-4.496 5.568-4.72 9.744h-2.432c.192-4.032 2.336-7.296 4.928-9.744h-6.304V.6z"
-					></path></g
-				><g id="seatnumber_107-with-service-icon" transform="translate(14 16)"
-					><path
-						d="M3.16 12.2V3.528H.664V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H3.16zm4.048-5.824c0-3.52 1.568-5.984 4.672-5.984 3.088 0 4.656 2.464 4.656 5.984 0 3.536-1.568 6.032-4.656 6.032-3.104 0-4.672-2.496-4.672-6.032zm7.072 0c0-2.768-.832-4.32-2.4-4.32s-2.416 1.552-2.416 4.32c0 2.784.848 4.368 2.416 4.368s2.4-1.584 2.4-4.368zM17.128.6h8.528v1.856c-3.024 3.088-4.496 5.568-4.72 9.744h-2.432c.192-4.032 2.336-7.296 4.928-9.744h-6.304V.6z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_107"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_112"
-				transform="translate(56 43)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="12"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:112"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_112_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_112" transform="translate(16 16)" fill="#1B50AF"
-					><path
-						d="M2.96 12.2V3.528H.464V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H2.96zm5.904 0V3.528H6.368V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H8.864zm12.032-8.688c0 2.176-2.112 4.448-5.68 6.832h5.952V12.2H12.64v-1.792c3.728-3.008 6.032-4.944 6.032-6.784 0-1.008-.64-1.6-1.712-1.6-.976 0-1.968.592-1.968 2.32h-2.144c-.032-2.4 1.664-3.952 4.24-3.952 2.32 0 3.808 1.104 3.808 3.12z"
-					></path></g
-				><g id="seatnumber_112-with-service-icon" transform="translate(16 16)"
-					><path
-						d="M2.96 12.2V3.528H.464V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H2.96zm5.904 0V3.528H6.368V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H8.864zm12.032-8.688c0 2.176-2.112 4.448-5.68 6.832h5.952V12.2H12.64v-1.792c3.728-3.008 6.032-4.944 6.032-6.784 0-1.008-.64-1.6-1.712-1.6-.976 0-1.968.592-1.968 2.32h-2.144c-.032-2.4 1.664-3.952 4.24-3.952 2.32 0 3.808 1.104 3.808 3.12z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_112"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_111"
-				transform="translate(56)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="12"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:111"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_111_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_111" transform="translate(18 16)" fill="#1B50AF"
-					><path
-						d="M2.64 12.2V3.528H.144V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H2.64zm5.904 0V3.528H6.048V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H8.544zm5.904 0V3.528h-2.496V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6h-2.208z"
-					></path></g
-				><g id="seatnumber_111-with-service-icon" transform="translate(18 16)"
-					><path
-						d="M2.64 12.2V3.528H.144V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H2.64zm5.904 0V3.528H6.048V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H8.544zm5.904 0V3.528h-2.496V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6h-2.208z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_111"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_116"
-				transform="translate(0 43)"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="13"
-				data-position="AISLE"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:116"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_116_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_116" transform="translate(16 16)" fill="#1B50AF"
-					><path
-						d="M2.568 12.2V3.528H.072V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H2.568zm5.904 0V3.528H5.976V2.024C7.656 1.976 8.44 1.864 9 .6h1.68v11.6H8.472zm6.256-6.592c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744 0-3.328 1.232-6.272 4.704-6.272 2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304z"
-					></path></g
-				><g id="seatnumber_116-with-service-icon" transform="translate(16 16)"
-					><path
-						d="M2.568 12.2V3.528H.072V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H2.568zm5.904 0V3.528H5.976V2.024C7.656 1.976 8.44 1.864 9 .6h1.68v11.6H8.472zm6.256-6.592c.496-.624 1.424-1.104 2.64-1.104 2.144 0 3.936 1.456 3.936 3.968 0 2.384-1.808 3.936-4.32 3.936-3.104 0-4.464-2.496-4.464-5.744 0-3.328 1.232-6.272 4.704-6.272 2.528 0 3.712 1.712 3.84 3.2h-2.16c-.112-.96-.88-1.52-1.824-1.52-1.456 0-2.352 1.376-2.352 3.536zm2.256 5.136c1.2 0 2.08-.896 2.08-2.304 0-1.36-.88-2.256-2.08-2.256-1.216 0-2.128.896-2.128 2.256 0 1.392.912 2.304 2.128 2.304z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_116"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			><g
-				data-element="seat" id="seat_115"
-				aria-disabled="false"
-				aria-selected="false"
-				data-selection="available"
-				data-logical-section="13"
-				data-position="WINDOW"
-				data-type="SEAT"
-				data-bookable="true"
-				data-is-blocked="false"
-				data-product-type="ECO_CLASS_SEAT"
-				data-place="coach:25 floor:2 number:115"
-				><path
-					d="M41 .5c.966 0 1.841.392 2.475 1.025A3.489 3.489 0 0144.5 4h0v35c0 .966-.392 1.841-1.025 2.475A3.489 3.489 0 0141 42.5h0H.5V.5z"
-					data-element="seat" id="seat_115_shape"
-					stroke="#1B50AF"
-					fill="#FFF"
-				></path><path
-					id="Line"
-					stroke="#1B50AF"
-					fill="#FFF"
-					stroke-linecap="square"
-					d="M9.5.5v42.012"
-				></path><g id="seatnumber_115" transform="translate(16 16)" fill="#1B50AF"
-					><path
-						d="M2.608 12.2V3.528H.112V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H2.608zm5.904 0V3.528H6.016V2.024C7.696 1.976 8.48 1.864 9.04.6h1.68v11.6H8.512zm10.496-3.808c0-1.584-1.072-2.368-2.144-2.368-1.024 0-1.76.512-1.984 1.056l-2.016-.096L13.632.6h7.152v1.856H15.44l-.32 2.48c.48-.352 1.232-.64 2.304-.64 1.984 0 3.824 1.408 3.824 4.08 0 2.56-1.984 4.032-4.368 4.032-2.72 0-4.16-1.856-4.288-3.856h2.08c.128 1.2.816 2.192 2.24 2.192 1.216 0 2.096-.88 2.096-2.352z"
-					></path></g
-				><g id="seatnumber_115-with-service-icon" transform="translate(16 16)"
-					><path
-						d="M2.608 12.2V3.528H.112V2.024c1.68-.048 2.464-.16 3.024-1.424h1.68v11.6H2.608zm5.904 0V3.528H6.016V2.024C7.696 1.976 8.48 1.864 9.04.6h1.68v11.6H8.512zm10.496-3.808c0-1.584-1.072-2.368-2.144-2.368-1.024 0-1.76.512-1.984 1.056l-2.016-.096L13.632.6h7.152v1.856H15.44l-.32 2.48c.48-.352 1.232-.64 2.304-.64 1.984 0 3.824 1.408 3.824 4.08 0 2.56-1.984 4.032-4.368 4.032-2.72 0-4.16-1.856-4.288-3.856h2.08c.128 1.2.816 2.192 2.24 2.192 1.216 0 2.096-.88 2.096-2.352z"
-						transform="translate(0 10)"
-					></path><use
-						id="pet-seat-icon-seatnumber_115"
-						xlink:href="#pet-seat-icon"
-						transform="translate(0 -12)"
-					></use></g
-				></g
-			></g
-		><g id="Dynamic-service-areas" transform="translate(425 80)"
-			><g id="servicearea_93-116"><path d="M0 0h325v78H0z"></path></g><g
-				id="servicearea_65-92"
-				transform="translate(354)"><path d="M0 0h381v78H0z"></path></g
-			></g
-		><g id="Service-badges" transform="translate(311 16)"
-			><g id="service-badge" transform="translate(0 73.422)"
-				><circle stroke="#fff" stroke-width="2" fill="#f2f2f2" cx="29" cy="29" r="28"></circle><g
-					id="Icon"
-					transform="translate(17 17)"
-					><path d="M0 0h24v24H0z"></path><path
-						d="M15.25 3h-6.5c-.69 0-1.25.56-1.25 1.25V5h9v-.75c0-.69-.56-1.25-1.25-1.25zM11 20.25V21h.75c.69 0 1.25-.56 1.25-1.25V19h-.75c-.69 0-1.25.56-1.25 1.25zm-3.5-3.5c0 .69.56 1.25 1.25 1.25h6.5c.69 0 1.25-.56 1.25-1.25V16h-9v.75zm10 4.25a1 1 0 01-1 1h-9a1 1 0 01-1-1V3a1 1 0 011-1h9a1 1 0 011 1v18zm-1-21h-9a3 3 0 00-3 3v18a3 3 0 003 3h9a3 3 0 003-3V3a3 3 0 00-3-3z"
-						fill="#1b50af"
-					></path></g
-				></g
-			><g id="service-badge" transform="translate(868)"
-				><circle stroke="#fff" stroke-width="2" fill="#f2f2f2" cx="29" cy="29" r="28"></circle><g
-					id="Icon/Service/Luggage"
-					transform="translate(17 17)"
-					><path d="M0 0h24v24H0z"></path><path
-						d="M10 4.25V4a1 1 0 011-1h2a1 1 0 011 1v.25c0 .69.56 1.25 1.25 1.25H16V4a3 3 0 00-3-3h-2a3 3 0 00-3 3v1.5h.75c.69 0 1.25-.56 1.25-1.25zM22 18c0 .552-.448 1-1 1h-3V9.5h-.75c-.69 0-1.25.56-1.25 1.25V19H8v-8.25c0-.69-.56-1.25-1.25-1.25H6V19H3c-.551 0-1-.448-1-1V9.5c0-.552.449-1 1-1h18c.552 0 1 .448 1 1V18zM21 6.5H3c-1.655 0-3 1.346-3 3V18c0 1.654 1.345 3 3 3h1v.75c0 .69.56 1.25 1.25 1.25H6v-2h12v2h.75c.69 0 1.25-.56 1.25-1.25V21h1c1.654 0 3-1.346 3-3V9.5c0-1.654-1.346-3-3-3z"
-						fill="#1b50af"
-					></path></g
-				></g
-			><g id="service-badge" transform="translate(949)"
-				><circle stroke="#fff" stroke-width="2" fill="#f2f2f2" cx="29" cy="29" r="28"></circle><g
-					id="Icon/Service/WC"
-					transform="translate(17 17)"
-					><path d="M0 0h24v24H0z"></path><path
-						d="M19.16 7a5.221 5.221 0 014.78 3.146l-.853.377c-.518.228-1.101.055-1.468-.378A3.221 3.221 0 0019.16 9c-1.781 0-3.23 1.458-3.23 3.25s1.449 3.25 3.23 3.25a3.22 3.22 0 002.46-1.145c.367-.432.95-.605 1.468-.377l.854.376a5.22 5.22 0 01-4.782 3.146c-2.877 0-5.218-2.354-5.218-5.25 0-2.895 2.341-5.25 5.218-5.25zm-12.177.165c1.017 0 1.83.703 1.979 1.709l.951 6.46 1.383-5.572.374-1.511a1.25 1.25 0 011.213-.949h1.083l-.44 1.775-1.671 6.739a1.978 1.978 0 01-1.937 1.519l-.101-.002a1.982 1.982 0 01-1.882-1.707l-.951-6.46-.952 6.46a1.98 1.98 0 01-1.883 1.707c-.968.033-1.805-.577-2.038-1.517L0 7.302h1.083a1.25 1.25 0 011.213.949l.3 1.209 1.457 5.874.952-6.46a1.963 1.963 0 011.978-1.709z"
-						fill="#1b50af"
-					></path></g
-				></g
-			></g
-		></g
-	></svg
 >
+	<g id="Ed/Upstairs" clip-path="url(#clip0_2_1670)">
+		<g id="ED_up">
+			<path
+				id="Vector"
+				fill-rule="evenodd"
+				clip-rule="evenodd"
+				d="M-279 0H1307V237H-279V0Z"
+				fill="white"
+			/>
+			<g id="Group">
+				<g id="Group_2">
+					<path
+						id="Vector_2"
+                        data-element="table"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M493.974 6.499C494.329 12.3259 494.504 18.1623 494.5 24C494.5 39.356 493.337 53.258 491.45 63.322C490.51 68.337 489.397 72.382 488.149 75.141C487.606 76.339 487.052 77.277 486.462 77.901C486.151 78.229 485.852 78.5 485.5 78.5C485.148 78.5 484.85 78.23 484.538 77.9C483.948 77.277 483.394 76.339 482.851 75.14C481.603 72.383 480.491 68.337 479.55 63.322C477.663 53.258 476.5 39.356 476.5 23.999C476.5 17.885 476.685 12.002 477.026 6.498L493.974 6.499ZM477.046 230.502C476.677 224.675 476.495 218.838 476.5 212.999C476.5 197.921 477.662 184.27 479.549 174.389C480.489 169.468 481.599 165.499 482.847 162.792C483.387 161.619 483.94 160.7 484.529 160.089C484.843 159.763 485.146 159.499 485.5 159.499C485.854 159.499 486.157 159.763 486.471 160.089C487.06 160.699 487.612 161.619 488.153 162.792C489.4 165.498 490.512 169.468 491.451 174.389C493.338 184.27 494.5 197.921 494.5 212.999C494.5 219.119 494.308 225.006 493.954 230.501L477.046 230.502Z"
+						fill="#E2D2BA"
+						stroke="#E2D2BA"
+						stroke-width="3"
+					/>
+				</g>
+				<path
+					id="Vector_3"
+					fill-rule="evenodd"
+					clip-rule="evenodd"
+					d="M887 136H890V231H887V136ZM887 7H890V101H887V7Z"
+					fill="#DCDCDC"
+				/>
+				<g id="Vector_4">
+					<path
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M78 160.773V230.284ZM24.497 79.052V158.3ZM78 77V158.3Z"
+						fill="#D8D8D8"
+					/>
+					<path
+						d="M78 160.773V230.284M24.497 79.052V158.3M78 77V158.3"
+						stroke="#DFDFDF"
+						stroke-width="3"
+						stroke-linecap="square"
+					/>
+				</g>
+				<path
+					id="Vector_5"
+					fill-rule="evenodd"
+					clip-rule="evenodd"
+					d="M79 162H23V159H79V162Z"
+					fill="#DCDCDC"
+				/>
+				<path
+					id="Vector_6"
+					fill-rule="evenodd"
+					clip-rule="evenodd"
+					d="M137 8.026H140V102.431H137V8.026Z"
+					fill="#DCDCDC"
+				/>
+				<g id="Stairs" data-element="stairs">
+					<path
+						id="Vector_7"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M0.476903 22.5999C0.489665 13.7724 7.64936 6.623 16.4769 6.623H123.443V41.663L103.277 76.498H0.398987L0.476903 22.5999Z"
+						stroke="#DCDCDC"
+						stroke-width="3"
+					/>
+					<g id="Group_3">
+						<path
+							id="Vector_8"
+							d="M14.449 74.078V8.078M28.422 74.078V8.078M42.396 74.078V8.078M56.369 74.078V8.078M70.343 74.078V8.078"
+							stroke="#DCDCDC"
+							stroke-width="2"
+							stroke-linecap="square"
+						/>
+					</g>
+				</g>
+				<path
+					id="Vector_9"
+					fill-rule="evenodd"
+					clip-rule="evenodd"
+					d="M1041.66 7C1045.62 7 1049.21 9.50629 1051.81 13.568C1054.4 17.6048 1056 23.1811 1056 29.3421V209.658C1056 215.819 1054.4 221.395 1051.81 225.432C1049.21 229.494 1045.62 232 1041.66 232H14.3448C10.3782 232 6.78578 229.494 4.18589 225.432C1.60137 221.395 0 215.819 0 209.658V29.3421C0 23.1811 1.60137 17.6048 4.18522 13.568C6.78511 9.50629 10.3782 7 14.3442 7H1041.66H1041.66Z"
+					stroke="#DFDFDF"
+					stroke-width="3"
+				/>
+				<g id="Group_4">
+					<g id="Group_5">
+						<g id="Group_6">
+							<path
+								id="Vector_10"
+								fill-rule="evenodd"
+								clip-rule="evenodd"
+								d="M42.613 6.211V3.211L129.613 3.211V6.211L42.613 6.211Z"
+								fill="#C2D6D6"
+							/>
+							<path
+								id="Vector_11"
+								fill-rule="evenodd"
+								clip-rule="evenodd"
+								d="M42.613 8.211V5.211L129.613 5.211V8.211L42.613 8.211Z"
+								fill="#9FC1B7"
+							/>
+						</g>
+					</g>
+					<g id="Group_7">
+						<path
+							id="Vector_12"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M85.613 232.888V235.888H129.613V232.888H85.613Z"
+							fill="#C2D6D6"
+						/>
+						<path
+							id="Vector_13"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M85.613 230.888V233.888H129.613V230.888H85.613Z"
+							fill="#9FC1B7"
+						/>
+					</g>
+					<g id="Group_8">
+						<path
+							id="Vector_14"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M171.891 232.888V235.888H273.223V232.888H171.891Z"
+							fill="#C2D6D6"
+						/>
+						<path
+							id="Vector_15"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M171.891 230.888V233.888H273.223V230.888H171.891Z"
+							fill="#9FC1B7"
+						/>
+					</g>
+					<g id="Group_9">
+						<path
+							id="Vector_16"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M301.645 6.211V3.211L402.977 3.211V6.211L301.645 6.211Z"
+							fill="#C2D6D6"
+						/>
+						<path
+							id="Vector_17"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M301.645 8.211V5.211L402.977 5.211V8.211L301.645 8.211Z"
+							fill="#9FC1B7"
+						/>
+					</g>
+					<g id="Group_10">
+						<path
+							id="Vector_18"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M301.645 232.888V235.888H402.977V232.888H301.645Z"
+							fill="#C2D6D6"
+						/>
+						<path
+							id="Vector_19"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M301.645 230.888V233.888H402.977V230.888H301.645Z"
+							fill="#9FC1B7"
+						/>
+					</g>
+					<g id="Group_11">
+						<g id="Group_12">
+							<path
+								id="Vector_20"
+								fill-rule="evenodd"
+								clip-rule="evenodd"
+								d="M431.423 6.21201V3.21201L533.8 3.21201V6.21201L431.423 6.21201Z"
+								fill="#C2D6D6"
+							/>
+							<path
+								id="Vector_21"
+								fill-rule="evenodd"
+								clip-rule="evenodd"
+								d="M431.423 8.21201V5.21201L533.8 5.21201V8.21201L431.423 8.21201Z"
+								fill="#9FC1B7"
+							/>
+						</g>
+					</g>
+					<g id="Group_13">
+						<path
+							id="Vector_22"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M431.399 232.888V235.888H532.731V232.888H431.399Z"
+							fill="#C2D6D6"
+						/>
+						<path
+							id="Vector_23"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M431.399 230.888V233.888H532.731V230.888H431.399Z"
+							fill="#9FC1B7"
+						/>
+					</g>
+					<g id="Group_14">
+						<path
+							id="Vector_24"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M560.201 6.211V3.211L659.444 3.211V6.211L560.201 6.211Z"
+							fill="#C2D6D6"
+						/>
+						<path
+							id="Vector_25"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M560.201 8.211V5.211L659.444 5.211V8.211L560.201 8.211Z"
+							fill="#9FC1B7"
+						/>
+					</g>
+					<g id="Group_15">
+						<path
+							id="Vector_26"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M560.154 232.888V235.888H661.486V232.888H560.154Z"
+							fill="#C2D6D6"
+						/>
+						<path
+							id="Vector_27"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M560.154 230.888V233.888H661.486V230.888H560.154Z"
+							fill="#9FC1B7"
+						/>
+					</g>
+					<g id="Group_16">
+						<path
+							id="Vector_28"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M688.886 6.21201V3.21201L791.263 3.21201V6.21201L688.886 6.21201Z"
+							fill="#C2D6D6"
+						/>
+						<path
+							id="Vector_29"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M688.886 8.21201V5.21201L791.263 5.21201V8.21201L688.886 8.21201Z"
+							fill="#9FC1B7"
+						/>
+					</g>
+					<g id="Group_17">
+						<path
+							id="Vector_30"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M817.669 6.211V3.211L883.669 3.211V6.211L817.669 6.211Z"
+							fill="#C2D6D6"
+						/>
+						<path
+							id="Vector_31"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M817.669 8.211V5.211L883.669 5.211V8.211L817.669 8.211Z"
+							fill="#9FC1B7"
+						/>
+					</g>
+					<g id="Group_18">
+						<path
+							id="Vector_32"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M688.91 232.888V235.888H790.242V232.888H688.91Z"
+							fill="#C2D6D6"
+						/>
+						<path
+							id="Vector_33"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M688.91 230.888V233.888H790.242V230.888H688.91Z"
+							fill="#9FC1B7"
+						/>
+					</g>
+					<g id="Group_19">
+						<path
+							id="Vector_34"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M817.67 232.888V235.888H882.67V232.888H817.67Z"
+							fill="#C2D6D6"
+						/>
+						<path
+							id="Vector_35"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M817.67 230.888V233.888H882.67V230.888H817.67Z"
+							fill="#9FC1B7"
+						/>
+					</g>
+					<g id="Group_20">
+						<path
+							id="Vector_36"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M172.5 5.5V2.5L270.5 2.5V5.5L172.5 5.5Z"
+							fill="#C2D6D6"
+						/>
+						<path
+							id="Vector_37"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M172.5 7.5V4.5L270.5 4.5V7.5L172.5 7.5Z"
+							fill="#9FC1B7"
+						/>
+					</g>
+				</g>
+				<g id="Group_21">
+					<g id="Vector_38">
+						<path
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M1004.5 81.838V160.5ZM964 9.35201V81.838ZM1055.97 81.838H964Z"
+							fill="#D8D8D8"
+						/>
+						<path
+							d="M1004.5 81.838V160.5M964 9.35201V81.838H1055.97"
+							stroke="#DFDFDF"
+							stroke-width="3"
+							stroke-linecap="square"
+						/>
+					</g>
+				</g>
+				<path
+					id="Vector_39"
+					fill-rule="evenodd"
+					clip-rule="evenodd"
+					d="M77.5 32.293L86.692 41.485L77.5 50.678L74.672 47.849L79.021 43.5H48.5V39.5H79.05L74.672 35.121L77.5 32.293Z"
+					fill="#DCDCDC"
+					stroke="white"
+				/>
+				<g id="Stairs-" data-element="stairs">
+					<path
+						id="Vector_40"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M1038.65 231.761H910.604V196.721L930.77 161.886H1038.65V231.761Z"
+						stroke="#DCDCDC"
+						stroke-width="3"
+					/>
+					<g id="Group_22">
+						<path
+							id="Vector_41"
+							d="M989.597 162.042V232.042M975.624 162.042V232.042M961.65 162.042V232.042M947.677 162.042V232.042M933.703 162.042V232.042"
+							stroke="#DCDCDC"
+							stroke-width="2"
+							stroke-linecap="square"
+						/>
+					</g>
+					<path
+						id="Vector_42"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M964.486 190.293L955.293 199.485L964.486 208.678L967.314 205.849L962.964 201.5H997.487V197.5H962.936L967.316 193.121L964.486 190.293Z"
+						fill="#DCDCDC"
+						stroke="white"
+					/>
+				</g>
+			</g>
+			<g id="Seats">
+				<g data-element="seat" id="seat_66">
+					<path
+						data-element="seat" id="seat_66_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M880.398 178.5H840.001C839.034 178.5 838.159 178.108 837.526 177.475C837.2 177.15 836.942 176.765 836.766 176.34C836.591 175.915 836.5 175.46 836.501 175V140C836.501 139.034 836.893 138.159 837.526 137.525C837.851 137.2 838.236 136.941 838.661 136.765C839.086 136.59 839.541 136.499 840.001 136.5H880.398V178.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<path id="Line" d="M871.419 178.5V136.488" stroke="#1B50AF" stroke-linecap="square" />
+					<g id="seatnumber_66">
+						<path
+							id="Vector_43"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M847.757 157.608C848.253 156.984 849.181 156.504 850.397 156.504C852.541 156.504 854.333 157.96 854.333 160.472C854.333 162.856 852.525 164.408 850.013 164.408C846.909 164.408 845.549 161.912 845.549 158.664C845.549 155.336 846.78 152.392 850.253 152.392C852.781 152.392 853.965 154.104 854.093 155.592H851.933C851.821 154.632 851.053 154.072 850.109 154.072C848.653 154.072 847.757 155.448 847.757 157.608ZM850.013 162.744C851.213 162.744 852.093 161.848 852.093 160.44C852.093 159.08 851.213 158.184 850.013 158.184C848.797 158.184 847.885 159.08 847.885 160.44C847.885 161.832 848.797 162.744 850.013 162.744ZM857.805 157.608C858.301 156.984 859.229 156.504 860.445 156.504C862.589 156.504 864.381 157.96 864.381 160.472C864.381 162.856 862.573 164.408 860.061 164.408C856.957 164.408 855.597 161.912 855.597 158.664C855.597 155.336 856.829 152.392 860.301 152.392C862.829 152.392 864.013 154.104 864.141 155.592H861.981C861.869 154.632 861.101 154.072 860.157 154.072C858.701 154.072 857.805 155.448 857.805 157.608ZM860.061 162.744C861.261 162.744 862.141 161.848 862.141 160.44C862.141 159.08 861.261 158.184 860.061 158.184C858.845 158.184 857.933 159.08 857.933 160.44C857.933 161.832 858.845 162.744 860.061 162.744Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_65">
+					<path
+						data-element="seat" id="seat_65_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M880.398 221.5H840.001C839.034 221.5 838.159 221.108 837.526 220.475C837.2 220.15 836.942 219.765 836.766 219.34C836.591 218.915 836.5 218.46 836.501 218V183C836.501 182.034 836.893 181.159 837.526 180.525C837.851 180.2 838.236 179.941 838.661 179.765C839.086 179.59 839.541 179.499 840.001 179.5H880.398V221.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<path id="Line_2" d="M871.419 221.5V179.488" stroke="#1B50AF" stroke-linecap="square" />
+					<g id="seatnumber_65">
+						<path
+							id="Vector_44"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M847.797 200.608C848.293 199.984 849.221 199.504 850.437 199.504C852.581 199.504 854.373 200.96 854.373 203.472C854.373 205.856 852.565 207.408 850.053 207.408C846.949 207.408 845.589 204.912 845.589 201.664C845.589 198.336 846.82 195.392 850.293 195.392C852.821 195.392 854.005 197.104 854.133 198.592H851.973C851.861 197.632 851.093 197.072 850.149 197.072C848.693 197.072 847.797 198.448 847.797 200.608ZM850.053 205.744C851.253 205.744 852.133 204.848 852.133 203.44C852.133 202.08 851.253 201.184 850.053 201.184C848.837 201.184 847.925 202.08 847.925 203.44C847.925 204.832 848.837 205.744 850.053 205.744ZM862.085 203.392C862.085 201.808 861.013 201.024 859.941 201.024C858.917 201.024 858.181 201.536 857.957 202.08L855.941 201.984L856.709 195.6H863.861V197.456H858.517L858.197 199.936C858.677 199.584 859.429 199.296 860.501 199.296C862.485 199.296 864.325 200.704 864.325 203.376C864.325 205.936 862.341 207.408 859.957 207.408C857.237 207.408 855.797 205.552 855.669 203.552H857.749C857.877 204.752 858.565 205.744 859.989 205.744C861.205 205.744 862.085 204.864 862.085 203.392Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_70">
+					<path
+						data-element="seat" id="seat_70_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M824.398 178.5H784.001C783.034 178.5 782.159 178.108 781.526 177.475C781.2 177.15 780.942 176.765 780.766 176.34C780.591 175.915 780.5 175.46 780.501 175V140C780.501 139.034 780.893 138.159 781.526 137.525C781.851 137.2 782.236 136.941 782.661 136.765C783.086 136.59 783.541 136.499 784.001 136.5H824.398V178.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_3">
+						<path
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M815.419 178.5V136.488Z"
+							fill="white"
+						/>
+						<path d="M815.419 178.5V136.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_70">
+						<path
+							id="Vector_45"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M789.525 152.6H798.053V154.456C795.029 157.544 793.557 160.024 793.333 164.2H790.9C791.092 160.168 793.236 156.904 795.828 154.456H789.525V152.6ZM798.373 158.376C798.373 154.856 799.941 152.392 803.045 152.392C806.133 152.392 807.701 154.856 807.701 158.376C807.701 161.912 806.133 164.408 803.045 164.408C799.941 164.408 798.373 161.912 798.373 158.376ZM805.445 158.376C805.445 155.608 804.613 154.056 803.045 154.056C801.477 154.056 800.629 155.608 800.629 158.376C800.629 161.16 801.477 162.744 803.045 162.744C804.613 162.744 805.445 161.16 805.445 158.376Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_69">
+					<path
+						data-element="seat" id="seat_69_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M824.398 221.5H784.001C783.034 221.5 782.159 221.108 781.526 220.475C781.2 220.15 780.942 219.765 780.766 219.34C780.591 218.915 780.5 218.46 780.501 218V183C780.501 182.034 780.893 181.159 781.526 180.525C781.851 180.2 782.236 179.941 782.661 179.765C783.086 179.59 783.541 179.499 784.001 179.5H824.398V221.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_4">
+						<path
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M815.419 221.5V179.488Z"
+							fill="white"
+						/>
+						<path d="M815.419 221.5V179.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_69">
+						<path
+							id="Vector_46"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M791.805 200.608C792.301 199.984 793.229 199.504 794.445 199.504C796.589 199.504 798.381 200.96 798.381 203.472C798.381 205.856 796.573 207.408 794.061 207.408C790.957 207.408 789.597 204.912 789.597 201.664C789.597 198.336 790.829 195.392 794.3 195.392C796.828 195.392 798.012 197.104 798.14 198.592H795.98C795.868 197.632 795.1 197.072 794.156 197.072C792.7 197.072 791.804 198.448 791.804 200.608H791.805ZM794.061 205.744C795.261 205.744 796.141 204.848 796.141 203.44C796.141 202.08 795.261 201.184 794.061 201.184C792.845 201.184 791.933 202.08 791.933 203.44C791.933 204.832 792.845 205.744 794.061 205.744ZM806.109 202.192C805.613 202.816 804.685 203.296 803.453 203.296C801.325 203.296 799.533 201.824 799.533 199.328C799.533 196.944 801.341 195.392 803.853 195.392C806.957 195.392 808.317 197.888 808.317 201.136C808.317 204.464 807.069 207.408 803.613 207.408C801.085 207.408 799.901 205.68 799.773 204.208H801.933C802.045 205.168 802.797 205.712 803.757 205.712C805.213 205.712 806.109 204.336 806.109 202.192ZM803.853 197.072C802.653 197.072 801.773 197.952 801.773 199.344C801.773 200.704 802.653 201.6 803.853 201.6C805.053 201.6 805.965 200.704 805.965 199.344C805.965 197.968 805.053 197.072 803.853 197.072Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_74">
+					<path
+						data-element="seat" id="seat_74_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M768.398 178.5H728.001C727.034 178.5 726.159 178.108 725.526 177.475C725.2 177.15 724.942 176.765 724.766 176.34C724.591 175.915 724.5 175.46 724.501 175V140C724.501 139.034 724.893 138.159 725.526 137.525C725.851 137.2 726.236 136.941 726.661 136.765C727.086 136.59 727.541 136.499 728.001 136.5H768.398V178.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_5">
+						<path
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M759.419 178.5V136.488Z"
+							fill="white"
+						/>
+						<path d="M759.419 178.5V136.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_74">
+						<path
+							id="Vector_47"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M733.757 152.6H742.285V154.456C739.26 157.544 737.789 160.024 737.565 164.2H735.133C735.325 160.168 737.469 156.904 740.061 154.456H733.757V152.6ZM751.997 161.416H750.013V164.2H747.82V161.416H742.093V159.688L747.853 152.6H750.013V159.544H751.997V161.416ZM744.509 159.544H747.821V155.4L744.509 159.544Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_73">
+					<path
+						data-element="seat" id="seat_73_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M768.398 221.5H728.001C727.034 221.5 726.159 221.108 725.526 220.475C725.2 220.15 724.942 219.765 724.766 219.34C724.591 218.915 724.5 218.46 724.501 218V183C724.501 182.034 724.893 181.159 725.526 180.525C725.851 180.2 726.236 179.941 726.661 179.765C727.086 179.59 727.541 179.499 728.001 179.5H768.398V221.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_6">
+						<path
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M759.419 221.5V179.488Z"
+							fill="white"
+						/>
+						<path d="M759.419 221.5V179.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_73">
+						<path
+							id="Vector_48"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M733.917 195.6H742.445V197.456C739.42 200.544 737.949 203.024 737.725 207.2H735.293C735.485 203.168 737.629 199.904 740.221 197.456H733.917V195.6ZM749.085 203.936C749.085 202.576 747.821 202.032 746.173 202.032H745.709V200.304H746.093C747.757 200.304 748.797 199.696 748.797 198.608C748.797 197.6 747.917 197.056 746.957 197.056C745.629 197.056 744.781 197.904 744.669 199.104H742.573C742.829 196.8 744.429 195.392 747.085 195.392C749.021 195.392 751.021 196.32 751.021 198.512C751.021 199.632 750.333 200.576 749.453 201.056C750.009 201.287 750.484 201.678 750.817 202.179C751.151 202.681 751.327 203.27 751.325 203.872C751.325 206.224 749.293 207.408 746.845 207.408C744.189 207.408 742.621 205.68 742.477 203.552H744.557C744.717 204.72 745.469 205.744 746.909 205.744C748.109 205.744 749.085 205.024 749.085 203.936Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_78">
+					<path
+						data-element="seat" id="seat_78_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M712.398 178.5H672.001C671.034 178.5 670.159 178.108 669.526 177.475C669.2 177.15 668.942 176.765 668.766 176.34C668.591 175.915 668.5 175.46 668.501 175V140C668.501 139.034 668.893 138.159 669.526 137.525C669.851 137.2 670.236 136.941 670.661 136.765C671.086 136.59 671.541 136.499 672.001 136.5H712.398V178.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_7">
+						<path
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M703.419 178.5V136.488Z"
+							fill="white"
+						/>
+						<path d="M703.419 178.5V136.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_78">
+						<path
+							id="Vector_49"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M677.7 152.6H686.23V154.456C683.205 157.544 681.733 160.024 681.509 164.2H679.077C679.269 160.168 681.413 156.904 684.005 154.456H677.7V152.6ZM695.077 155.368C695.077 156.408 694.661 157.384 693.669 157.992C694.965 158.728 695.429 159.768 695.429 160.888C695.429 163.16 693.493 164.408 691.029 164.408C688.581 164.408 686.645 163.16 686.645 160.888C686.645 159.768 687.125 158.712 688.421 157.992C687.461 157.448 686.997 156.408 686.997 155.384C686.997 153.656 688.581 152.392 691.029 152.392C693.493 152.392 695.077 153.656 695.077 155.368ZM691.029 154.056C689.877 154.056 689.141 154.68 689.141 155.64C689.141 156.6 689.877 157.304 691.029 157.304C692.181 157.304 692.933 156.6 692.933 155.64C692.933 154.68 692.181 154.056 691.029 154.056ZM688.9 160.792C688.9 161.944 689.732 162.744 691.028 162.744C692.34 162.744 693.172 161.944 693.172 160.792C693.172 159.64 692.34 158.888 691.028 158.888C689.732 158.888 688.9 159.64 688.9 160.792Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_77">
+					<path
+						data-element="seat" id="seat_77_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M712.398 221.5H672.001C671.034 221.5 670.159 221.108 669.526 220.475C669.2 220.15 668.942 219.765 668.766 219.34C668.591 218.915 668.5 218.46 668.501 218V183C668.501 182.034 668.893 181.159 669.526 180.525C669.851 180.2 670.236 179.941 670.661 179.765C671.086 179.59 671.541 179.499 672.001 179.5H712.398V221.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_8">
+						<path
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M703.419 221.5V179.488Z"
+							fill="white"
+						/>
+						<path d="M703.419 221.5V179.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_77">
+						<path
+							id="Vector_50"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M678.749 195.6H687.277V197.456C684.253 200.544 682.78 203.024 682.557 207.2H680.125C680.317 203.168 682.461 199.904 685.053 197.456H678.749V195.6ZM686.909 195.6H695.437V197.456C692.413 200.544 690.941 203.024 690.717 207.2H688.285C688.477 203.168 690.621 199.904 693.213 197.456H686.909V195.6Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_82">
+					<path
+						data-element="seat" id="seat_82_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M656.398 178.5H616.001C615.034 178.5 614.159 178.108 613.526 177.475C613.201 177.15 612.942 176.765 612.767 176.34C612.591 175.915 612.5 175.46 612.501 175V140C612.501 139.034 612.893 138.159 613.526 137.525C613.851 137.2 614.236 136.941 614.661 136.765C615.086 136.59 615.541 136.499 616.001 136.5H656.398V178.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_9">
+						<path
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M647.419 178.5V136.488Z"
+							fill="white"
+						/>
+						<path d="M647.419 178.5V136.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_82">
+						<path
+							id="Vector_51"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M630.365 155.368C630.365 156.408 629.949 157.384 628.957 157.992C630.253 158.728 630.717 159.768 630.717 160.888C630.717 163.16 628.781 164.408 626.317 164.408C623.869 164.408 621.933 163.16 621.933 160.888C621.933 159.768 622.413 158.712 623.709 157.992C622.749 157.448 622.285 156.408 622.285 155.384C622.285 153.656 623.869 152.392 626.317 152.392C628.781 152.392 630.365 153.656 630.365 155.368ZM626.317 154.056C625.165 154.056 624.429 154.68 624.429 155.64C624.429 156.6 625.165 157.304 626.317 157.304C627.469 157.304 628.22 156.6 628.22 155.64C628.22 154.68 627.469 154.056 626.317 154.056ZM624.189 160.792C624.189 161.944 625.021 162.744 626.317 162.744C627.629 162.744 628.461 161.944 628.461 160.792C628.461 159.64 627.629 158.888 626.317 158.888C625.021 158.888 624.189 159.64 624.189 160.792ZM640.077 155.512C640.077 157.688 637.965 159.96 634.397 162.344H640.349V164.2H631.82V162.408C635.548 159.4 637.852 157.464 637.852 155.624C637.852 154.616 637.212 154.024 636.14 154.024C635.164 154.024 634.172 154.616 634.172 156.344H632.028C631.996 153.944 633.692 152.392 636.268 152.392C638.588 152.392 640.077 153.496 640.077 155.512Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_81">
+					<path
+						data-element="seat" id="seat_81_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M656.398 221.5H616.001C615.034 221.5 614.159 221.108 613.526 220.475C613.201 220.15 612.942 219.765 612.767 219.34C612.591 218.915 612.5 218.46 612.501 218V183C612.501 182.034 612.893 181.159 613.526 180.525C613.851 180.2 614.236 179.941 614.661 179.765C615.086 179.59 615.541 179.499 616.001 179.5H656.398V221.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_10">
+						<path
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M647.419 221.5V179.488Z"
+							fill="white"
+						/>
+						<path d="M647.419 221.5V179.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_81">
+						<path
+							id="Vector_52"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M632.045 198.368C632.045 199.408 631.629 200.384 630.637 200.992C631.933 201.728 632.397 202.768 632.397 203.888C632.397 206.16 630.461 207.408 627.997 207.408C625.549 207.408 623.613 206.16 623.613 203.888C623.613 202.768 624.093 201.712 625.389 200.992C624.429 200.448 623.965 199.408 623.965 198.384C623.965 196.656 625.549 195.392 627.997 195.392C630.461 195.392 632.045 196.656 632.045 198.368ZM627.997 197.056C626.845 197.056 626.109 197.68 626.109 198.64C626.109 199.6 626.845 200.304 627.997 200.304C629.149 200.304 629.9 199.6 629.9 198.64C629.9 197.68 629.148 197.056 627.996 197.056H627.997ZM625.869 203.792C625.869 204.944 626.701 205.744 627.997 205.744C629.309 205.744 630.141 204.944 630.141 203.792C630.141 202.64 629.309 201.888 627.997 201.888C626.701 201.888 625.869 202.64 625.869 203.792ZM635.629 207.2V198.528H633.133V197.024C634.813 196.976 635.597 196.864 636.157 195.6H637.837V207.2H635.629Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_86">
+					<path
+						data-element="seat" id="seat_86_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M600.398 178.5H560.001C559.034 178.5 558.159 178.108 557.526 177.475C557.201 177.15 556.942 176.765 556.767 176.34C556.591 175.915 556.5 175.46 556.501 175V140C556.501 139.034 556.893 138.159 557.526 137.525C557.851 137.2 558.236 136.941 558.661 136.765C559.086 136.59 559.541 136.499 560.001 136.5H600.398V178.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_11">
+						<path
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M591.419 178.5V136.488Z"
+							fill="white"
+						/>
+						<path d="M591.419 178.5V136.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_86">
+						<path
+							id="Vector_53"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M573.973 155.368C573.973 156.408 573.557 157.384 572.565 157.992C573.861 158.728 574.325 159.768 574.325 160.888C574.325 163.16 572.389 164.408 569.925 164.408C567.477 164.408 565.541 163.16 565.541 160.888C565.541 159.768 566.021 158.712 567.317 157.992C566.357 157.448 565.893 156.408 565.893 155.384C565.893 153.656 567.477 152.392 569.925 152.392C572.389 152.392 573.973 153.656 573.973 155.368ZM569.925 154.056C568.773 154.056 568.037 154.68 568.037 155.64C568.037 156.6 568.773 157.304 569.925 157.304C571.077 157.304 571.829 156.6 571.829 155.64C571.829 154.68 571.077 154.056 569.925 154.056ZM567.797 160.792C567.797 161.944 568.629 162.744 569.925 162.744C571.237 162.744 572.069 161.944 572.069 160.792C572.069 159.64 571.237 158.888 569.925 158.888C568.629 158.888 567.797 159.64 567.797 160.792ZM577.909 157.608C578.405 156.984 579.333 156.504 580.549 156.504C582.693 156.504 584.485 157.96 584.485 160.472C584.485 162.856 582.677 164.408 580.165 164.408C577.061 164.408 575.701 161.912 575.701 158.664C575.701 155.336 576.933 152.392 580.405 152.392C582.933 152.392 584.117 154.104 584.245 155.592H582.085C581.973 154.632 581.205 154.072 580.261 154.072C578.805 154.072 577.909 155.448 577.909 157.608ZM580.165 162.744C581.365 162.744 582.245 161.848 582.245 160.44C582.245 159.08 581.365 158.184 580.165 158.184C578.949 158.184 578.037 159.08 578.037 160.44C578.037 161.832 578.949 162.744 580.165 162.744Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_85">
+					<path
+						data-element="seat" id="seat_85_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M600.398 221.5H560.001C559.034 221.5 558.159 221.108 557.526 220.475C557.201 220.15 556.942 219.765 556.767 219.34C556.591 218.915 556.5 218.46 556.501 218V183C556.501 182.034 556.893 181.159 557.526 180.525C557.851 180.2 558.236 179.941 558.661 179.765C559.086 179.59 559.541 179.499 560.001 179.5H600.398V221.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_12">
+						<path
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M591.419 221.5V179.488Z"
+							fill="white"
+						/>
+						<path d="M591.419 221.5V179.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_85">
+						<path
+							id="Vector_54"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M574.013 198.368C574.013 199.408 573.597 200.384 572.605 200.992C573.901 201.728 574.365 202.768 574.365 203.888C574.365 206.16 572.429 207.408 569.965 207.408C567.517 207.408 565.581 206.16 565.581 203.888C565.581 202.768 566.061 201.712 567.357 200.992C566.397 200.448 565.933 199.408 565.933 198.384C565.933 196.656 567.517 195.392 569.965 195.392C572.429 195.392 574.013 196.656 574.013 198.368ZM569.965 197.056C568.813 197.056 568.077 197.68 568.077 198.64C568.077 199.6 568.813 200.304 569.965 200.304C571.117 200.304 571.869 199.6 571.869 198.64C571.869 197.68 571.117 197.056 569.965 197.056ZM567.837 203.792C567.837 204.944 568.669 205.744 569.965 205.744C571.277 205.744 572.109 204.944 572.109 203.792C572.109 202.64 571.277 201.888 569.965 201.888C568.669 201.888 567.837 202.64 567.837 203.792ZM582.189 203.392C582.189 201.808 581.117 201.024 580.045 201.024C579.021 201.024 578.285 201.536 578.061 202.08L576.045 201.984L576.813 195.6H583.965V197.456H578.62L578.3 199.936C578.78 199.584 579.532 199.296 580.604 199.296C582.588 199.296 584.428 200.704 584.428 203.376C584.428 205.936 582.444 207.408 580.06 207.408C577.34 207.408 575.9 205.552 575.772 203.552H577.852C577.98 204.752 578.668 205.744 580.092 205.744C581.308 205.744 582.189 204.864 582.189 203.392Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_90">
+					<path
+						data-element="seat" id="seat_90_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M504.001 178.5C503.034 178.5 502.159 178.108 501.526 177.475C501.201 177.15 500.942 176.765 500.767 176.34C500.591 175.915 500.5 175.46 500.501 175V140C500.501 139.034 500.893 138.159 501.526 137.525C501.851 137.2 502.236 136.941 502.661 136.765C503.086 136.59 503.541 136.499 504.001 136.5H544.398V178.5H504.001Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_13">
+						<path
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M535.419 178.5V136.488Z"
+							fill="white"
+						/>
+						<path d="M535.419 178.5V136.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_90">
+						<path
+							id="Vector_55"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M515.78 159.192C515.285 159.816 514.357 160.296 513.125 160.296C510.997 160.296 509.205 158.824 509.205 156.328C509.205 153.944 511.013 152.392 513.525 152.392C516.629 152.392 517.989 154.888 517.989 158.136C517.989 161.464 516.741 164.408 513.285 164.408C510.757 164.408 509.573 162.68 509.445 161.208H511.605C511.717 162.168 512.469 162.712 513.429 162.712C514.885 162.712 515.78 161.336 515.78 159.192ZM513.525 154.072C512.325 154.072 511.445 154.952 511.445 156.344C511.445 157.704 512.325 158.6 513.525 158.6C514.725 158.6 515.637 157.704 515.637 156.344C515.637 154.968 514.725 154.072 513.525 154.072ZM519.269 158.376C519.269 154.856 520.837 152.392 523.941 152.392C527.029 152.392 528.597 154.856 528.597 158.376C528.597 161.912 527.029 164.408 523.941 164.408C520.837 164.408 519.269 161.912 519.269 158.376ZM526.341 158.376C526.341 155.608 525.509 154.056 523.941 154.056C522.373 154.056 521.525 155.608 521.525 158.376C521.525 161.16 522.373 162.744 523.941 162.744C525.509 162.744 526.341 161.16 526.341 158.376Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_89">
+					<path
+						data-element="seat" id="seat_89_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M504.001 221.5C503.034 221.5 502.159 221.108 501.526 220.475C501.201 220.15 500.942 219.765 500.767 219.34C500.591 218.915 500.5 218.46 500.501 218V183C500.501 182.034 500.893 181.159 501.526 180.525C501.851 180.2 502.236 179.941 502.661 179.765C503.086 179.59 503.541 179.499 504.001 179.5H544.398V221.5H504.001Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_14">
+						<path
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M535.419 221.5V179.488Z"
+							fill="white"
+						/>
+						<path d="M535.419 221.5V179.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_89">
+						<path
+							id="Vector_56"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M518.02 198.368C518.02 199.408 517.605 200.384 516.613 200.992C517.909 201.728 518.373 202.768 518.373 203.888C518.373 206.16 516.437 207.408 513.973 207.408C511.525 207.408 509.589 206.16 509.589 203.888C509.589 202.768 510.069 201.712 511.365 200.992C510.405 200.448 509.94 199.408 509.94 198.384C509.94 196.656 511.525 195.392 513.973 195.392C516.437 195.392 518.02 196.656 518.02 198.368ZM513.974 197.056C512.822 197.056 512.086 197.68 512.086 198.64C512.086 199.6 512.822 200.304 513.974 200.304C515.126 200.304 515.877 199.6 515.877 198.64C515.877 197.68 515.125 197.056 513.973 197.056H513.974ZM511.845 203.792C511.845 204.944 512.677 205.744 513.973 205.744C515.285 205.744 516.117 204.944 516.117 203.792C516.117 202.64 515.285 201.888 513.973 201.888C512.677 201.888 511.845 202.64 511.845 203.792ZM526.213 202.192C525.717 202.816 524.789 203.296 523.557 203.296C521.429 203.296 519.637 201.824 519.637 199.328C519.637 196.944 521.445 195.392 523.957 195.392C527.061 195.392 528.421 197.888 528.421 201.136C528.421 204.464 527.173 207.408 523.717 207.408C521.189 207.408 520.005 205.68 519.877 204.208H522.037C522.149 205.168 522.901 205.712 523.861 205.712C525.317 205.712 526.213 204.336 526.213 202.192ZM523.957 197.072C522.757 197.072 521.877 197.952 521.877 199.344C521.877 200.704 522.757 201.6 523.957 201.6C525.157 201.6 526.069 200.704 526.069 199.344C526.069 197.968 525.157 197.072 523.957 197.072Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_94">
+					<path
+						data-element="seat" id="seat_94_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M467 136.5C467.966 136.5 468.841 136.892 469.475 137.525C469.8 137.85 470.059 138.235 470.235 138.66C470.41 139.085 470.501 139.54 470.5 140V175C470.5 175.966 470.108 176.841 469.475 177.475C469.15 177.8 468.765 178.059 468.34 178.235C467.915 178.41 467.46 178.501 467 178.5H426.5V136.5H467Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_15">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M435.5 136.5V178.512Z" fill="white" />
+						<path d="M435.5 136.5V178.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_94">
+						<path
+							id="Vector_57"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M450.056 159.192C449.56 159.816 448.632 160.296 447.4 160.296C445.272 160.296 443.48 158.824 443.48 156.328C443.48 153.944 445.288 152.392 447.8 152.392C450.904 152.392 452.264 154.888 452.264 158.136C452.264 161.464 451.016 164.408 447.56 164.408C445.032 164.408 443.848 162.68 443.72 161.208H445.88C445.992 162.168 446.744 162.712 447.704 162.712C449.16 162.712 450.056 161.336 450.056 159.192ZM447.8 154.072C446.6 154.072 445.72 154.952 445.72 156.344C445.72 157.704 446.6 158.6 447.8 158.6C449 158.6 449.912 157.704 449.912 156.344C449.912 154.968 449 154.072 447.8 154.072ZM462.936 161.416H460.952V164.2H458.76V161.416H453.032V159.688L458.792 152.6H460.952V159.544H462.936V161.416ZM455.448 159.544H458.76V155.4L455.448 159.544Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_93">
+					<path
+						data-element="seat" id="seat_93_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M467 179.5C467.966 179.5 468.841 179.892 469.475 180.525C469.8 180.85 470.059 181.235 470.235 181.66C470.41 182.085 470.501 182.54 470.5 183V218C470.5 218.966 470.108 219.841 469.475 220.475C469.15 220.8 468.765 221.059 468.34 221.235C467.915 221.41 467.46 221.501 467 221.5H426.5V179.5H467Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_16">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M435.5 179.5V221.512Z" fill="white" />
+						<path d="M435.5 179.5V221.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_93">
+						<path
+							id="Vector_58"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M450.216 202.192C449.72 202.816 448.792 203.296 447.56 203.296C445.432 203.296 443.64 201.824 443.64 199.328C443.64 196.944 445.448 195.392 447.96 195.392C451.064 195.392 452.424 197.888 452.424 201.136C452.424 204.464 451.176 207.408 447.72 207.408C445.192 207.408 444.008 205.68 443.88 204.208H446.04C446.152 205.168 446.904 205.712 447.864 205.712C449.32 205.712 450.216 204.336 450.216 202.192ZM447.96 197.072C446.76 197.072 445.88 197.952 445.88 199.344C445.88 200.704 446.76 201.6 447.96 201.6C449.16 201.6 450.072 200.704 450.072 199.344C450.072 197.968 449.16 197.072 447.96 197.072ZM460.024 203.936C460.024 202.576 458.76 202.032 457.112 202.032H456.648V200.304H457.032C458.696 200.304 459.736 199.696 459.736 198.608C459.736 197.6 458.856 197.056 457.896 197.056C456.568 197.056 455.72 197.904 455.608 199.104H453.512C453.768 196.8 455.368 195.392 458.024 195.392C459.96 195.392 461.96 196.32 461.96 198.512C461.96 199.632 461.272 200.576 460.392 201.056C460.948 201.287 461.423 201.678 461.757 202.179C462.09 202.681 462.267 203.27 462.264 203.872C462.264 206.224 460.232 207.408 457.784 207.408C455.128 207.408 453.56 205.68 453.416 203.552H455.496C455.656 204.72 456.408 205.744 457.848 205.744C459.048 205.744 460.024 205.024 460.024 203.936Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_98">
+					<path
+						data-element="seat" id="seat_98_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M411 136.5C411.966 136.5 412.841 136.892 413.475 137.525C413.8 137.85 414.059 138.235 414.235 138.66C414.41 139.085 414.501 139.54 414.5 140V175C414.5 175.966 414.108 176.841 413.475 177.475C413.15 177.8 412.765 178.059 412.34 178.235C411.915 178.41 411.46 178.501 411 178.5H370.5V136.5H411Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_17">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M379.5 136.5V178.512Z" fill="white" />
+						<path d="M379.5 136.5V178.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_98">
+						<path
+							id="Vector_59"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M394 159.192C393.504 159.816 392.576 160.296 391.344 160.296C389.216 160.296 387.424 158.824 387.424 156.328C387.424 153.944 389.232 152.392 391.744 152.392C394.848 152.392 396.208 154.888 396.208 158.136C396.208 161.464 394.96 164.408 391.504 164.408C388.976 164.408 387.792 162.68 387.664 161.208H389.824C389.936 162.168 390.688 162.712 391.648 162.712C393.104 162.712 394 161.336 394 159.192ZM391.744 154.072C390.544 154.072 389.664 154.952 389.664 156.344C389.664 157.704 390.544 158.6 391.744 158.6C392.944 158.6 393.856 157.704 393.856 156.344C393.856 154.968 392.944 154.072 391.744 154.072ZM406.016 155.368C406.016 156.408 405.6 157.384 404.608 157.992C405.904 158.728 406.368 159.768 406.368 160.888C406.368 163.16 404.432 164.408 401.968 164.408C399.52 164.408 397.584 163.16 397.584 160.888C397.584 159.768 398.064 158.712 399.36 157.992C398.4 157.448 397.936 156.408 397.936 155.384C397.936 153.656 399.52 152.392 401.968 152.392C404.432 152.392 406.016 153.656 406.016 155.368ZM401.968 154.056C400.816 154.056 400.08 154.68 400.08 155.64C400.08 156.6 400.816 157.304 401.968 157.304C403.12 157.304 403.872 156.6 403.872 155.64C403.872 154.68 403.12 154.056 401.968 154.056ZM399.84 160.792C399.84 161.944 400.672 162.744 401.968 162.744C403.28 162.744 404.112 161.944 404.112 160.792C404.112 159.64 403.28 158.888 401.968 158.888C400.672 158.888 399.84 159.64 399.84 160.792Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_97">
+					<path
+						data-element="seat" id="seat_97_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M411 179.5C411.966 179.5 412.841 179.892 413.475 180.525C413.8 180.85 414.059 181.235 414.235 181.66C414.41 182.085 414.501 182.54 414.5 183V218C414.5 218.966 414.108 219.841 413.475 220.475C413.15 220.8 412.765 221.059 412.34 221.235C411.915 221.41 411.46 221.501 411 221.5H370.5V179.5H411Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_18">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M379.5 179.5V221.512Z" fill="white" />
+						<path d="M379.5 179.5V221.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_97">
+						<path
+							id="Vector_60"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M395.048 202.192C394.552 202.816 393.624 203.296 392.392 203.296C390.264 203.296 388.472 201.824 388.472 199.328C388.472 196.944 390.28 195.392 392.792 195.392C395.896 195.392 397.256 197.888 397.256 201.136C397.256 204.464 396.008 207.408 392.552 207.408C390.024 207.408 388.84 205.68 388.712 204.208H390.872C390.984 205.168 391.736 205.712 392.696 205.712C394.152 205.712 395.048 204.336 395.048 202.192ZM392.792 197.072C391.592 197.072 390.712 197.952 390.712 199.344C390.712 200.704 391.592 201.6 392.792 201.6C393.992 201.6 394.904 200.704 394.904 199.344C394.904 197.968 393.992 197.072 392.792 197.072ZM397.848 195.6H406.376V197.456C403.352 200.544 401.88 203.024 401.656 207.2H399.224C399.416 203.168 401.56 199.904 404.152 197.456H397.848V195.6Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_102">
+					<path
+						data-element="seat" id="seat_102_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M355 136.5C355.966 136.5 356.841 136.892 357.475 137.525C357.8 137.85 358.059 138.235 358.235 138.66C358.41 139.085 358.501 139.54 358.5 140V175C358.5 175.966 358.108 176.841 357.475 177.475C357.15 177.8 356.765 178.059 356.34 178.235C355.915 178.41 355.46 178.501 355 178.5H314.5V136.5H355Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_19">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M323.5 136.5V178.512Z" fill="white" />
+						<path d="M323.5 136.5V178.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_102">
+						<path
+							id="Vector_61"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M330.608 164.2V155.528H328.112V154.024C329.792 153.976 330.576 153.864 331.136 152.6H332.816V164.2H330.608ZM334.656 158.376C334.656 154.856 336.224 152.392 339.328 152.392C342.416 152.392 343.984 154.856 343.984 158.376C343.984 161.912 342.416 164.408 339.328 164.408C336.224 164.408 334.656 161.912 334.656 158.376ZM341.728 158.376C341.728 155.608 340.896 154.056 339.328 154.056C337.76 154.056 336.912 155.608 336.912 158.376C336.912 161.16 337.76 162.744 339.328 162.744C340.896 162.744 341.728 161.16 341.728 158.376ZM353.248 155.512C353.248 157.688 351.136 159.96 347.568 162.344H353.52V164.2H344.992V162.408C348.72 159.4 351.024 157.464 351.024 155.624C351.024 154.616 350.384 154.024 349.312 154.024C348.336 154.024 347.344 154.616 347.344 156.344H345.2C345.168 153.944 346.864 152.392 349.44 152.392C351.76 152.392 353.248 153.496 353.248 155.512Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_101">
+					<path
+						data-element="seat" id="seat_101_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M355 179.5C355.966 179.5 356.841 179.892 357.475 180.525C357.8 180.85 358.059 181.235 358.235 181.66C358.41 182.085 358.501 182.54 358.5 183V218C358.5 218.966 358.108 219.841 357.475 220.475C357.15 220.8 356.765 221.059 356.34 221.235C355.915 221.41 355.46 221.501 355 221.5H314.5V179.5H355Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_20">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M323.5 179.5V221.512Z" fill="white" />
+						<path d="M323.5 179.5V221.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_101">
+						<path
+							id="Vector_62"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M332.288 207.2V198.528H329.792V197.024C331.472 196.976 332.256 196.864 332.816 195.6H334.496V207.2H332.288ZM336.336 201.376C336.336 197.856 337.904 195.392 341.008 195.392C344.096 195.392 345.664 197.856 345.664 201.376C345.664 204.912 344.096 207.408 341.008 207.408C337.904 207.408 336.336 204.912 336.336 201.376ZM343.408 201.376C343.408 198.608 342.576 197.056 341.008 197.056C339.44 197.056 338.592 198.608 338.592 201.376C338.592 204.16 339.44 205.744 341.008 205.744C342.576 205.744 343.408 204.16 343.408 201.376ZM348.8 207.2V198.528H346.304V197.024C347.984 196.976 348.768 196.864 349.328 195.6H351.008V207.2H348.8Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_106">
+					<path
+						data-element="seat" id="seat_106_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M299 136.5C299.966 136.5 300.841 136.892 301.475 137.525C301.8 137.85 302.059 138.235 302.235 138.66C302.41 139.085 302.501 139.54 302.5 140V175C302.5 175.966 302.108 176.841 301.475 177.475C301.15 177.8 300.765 178.059 300.34 178.235C299.915 178.41 299.46 178.501 299 178.5H258.5V136.5H299Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_21">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M267.5 136.5V178.512Z" fill="white" />
+						<path d="M267.5 136.5V178.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_106">
+						<path
+							id="Vector_63"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M274.216 164.2V155.528H271.72V154.024C273.4 153.976 274.184 153.864 274.744 152.6H276.424V164.2H274.216ZM278.264 158.376C278.264 154.856 279.832 152.392 282.936 152.392C286.024 152.392 287.592 154.856 287.592 158.376C287.592 161.912 286.024 164.408 282.936 164.408C279.832 164.408 278.264 161.912 278.264 158.376ZM285.336 158.376C285.336 155.608 284.504 154.056 282.936 154.056C281.368 154.056 280.52 155.608 280.52 158.376C280.52 161.16 281.368 162.744 282.936 162.744C284.504 162.744 285.336 161.16 285.336 158.376ZM291.08 157.608C291.576 156.984 292.504 156.504 293.72 156.504C295.864 156.504 297.656 157.96 297.656 160.472C297.656 162.856 295.848 164.408 293.336 164.408C290.232 164.408 288.872 161.912 288.872 158.664C288.872 155.336 290.104 152.392 293.576 152.392C296.104 152.392 297.288 154.104 297.416 155.592H295.256C295.144 154.632 294.376 154.072 293.432 154.072C291.976 154.072 291.08 155.448 291.08 157.608ZM293.336 162.744C294.536 162.744 295.416 161.848 295.416 160.44C295.416 159.08 294.536 158.184 293.336 158.184C292.12 158.184 291.208 159.08 291.208 160.44C291.208 161.832 292.12 162.744 293.336 162.744Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_105">
+					<path
+						data-element="seat" id="seat_105_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M299 179.5C299.966 179.5 300.841 179.892 301.475 180.525C301.8 180.85 302.059 181.235 302.235 181.66C302.41 182.085 302.501 182.54 302.5 183V218C302.5 218.966 302.108 219.841 301.475 220.475C301.15 220.8 300.765 221.059 300.34 221.235C299.915 221.41 299.46 221.501 299 221.5H258.5V179.5H299Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_22">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M267.5 179.5V221.512Z" fill="white" />
+						<path d="M267.5 179.5V221.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_105">
+						<path
+							id="Vector_64"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M274.256 207.2V198.528H271.76V197.024C273.44 196.976 274.224 196.864 274.784 195.6H276.464V207.2H274.256ZM278.304 201.376C278.304 197.856 279.872 195.392 282.976 195.392C286.064 195.392 287.632 197.856 287.632 201.376C287.632 204.912 286.064 207.408 282.976 207.408C279.872 207.408 278.304 204.912 278.304 201.376ZM285.376 201.376C285.376 198.608 284.544 197.056 282.976 197.056C281.408 197.056 280.56 198.608 280.56 201.376C280.56 204.16 281.408 205.744 282.976 205.744C284.544 205.744 285.376 204.16 285.376 201.376ZM295.36 203.392C295.36 201.808 294.288 201.024 293.216 201.024C292.192 201.024 291.456 201.536 291.232 202.08L289.216 201.984L289.984 195.6H297.136V197.456H291.792L291.472 199.936C291.952 199.584 292.704 199.296 293.776 199.296C295.76 199.296 297.6 200.704 297.6 203.376C297.6 205.936 295.616 207.408 293.232 207.408C290.512 207.408 289.072 205.552 288.944 203.552H291.024C291.152 204.752 291.84 205.744 293.264 205.744C294.48 205.744 295.36 204.864 295.36 203.392Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_110">
+					<path
+						data-element="seat" id="seat_110_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M243 136.5C243.966 136.5 244.841 136.892 245.475 137.525C245.8 137.85 246.059 138.235 246.235 138.66C246.41 139.085 246.501 139.54 246.5 140V175C246.5 175.966 246.108 176.841 245.475 177.475C245.15 177.8 244.765 178.059 244.34 178.235C243.915 178.41 243.46 178.501 243 178.5H202.5V136.5H243Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_23">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M211.5 136.5V178.512Z" fill="white" />
+						<path d="M211.5 136.5V178.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_110">
+						<path
+							id="Vector_65"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M220.288 164.2V155.528H217.792V154.024C219.472 153.976 220.256 153.864 220.816 152.6H222.496V164.2H220.288ZM226.192 164.2V155.528H223.696V154.024C225.376 153.976 226.16 153.864 226.72 152.6H228.4V164.2H226.192ZM230.24 158.376C230.24 154.856 231.808 152.392 234.912 152.392C238 152.392 239.568 154.856 239.568 158.376C239.568 161.912 238 164.408 234.912 164.408C231.808 164.408 230.24 161.912 230.24 158.376ZM237.312 158.376C237.312 155.608 236.48 154.056 234.912 154.056C233.344 154.056 232.496 155.608 232.496 158.376C232.496 161.16 233.344 162.744 234.912 162.744C236.48 162.744 237.312 161.16 237.312 158.376Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_109">
+					<path
+						data-element="seat" id="seat_109_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M243 179.5C243.966 179.5 244.841 179.892 245.475 180.525C245.8 180.85 246.059 181.235 246.235 181.66C246.41 182.085 246.501 182.54 246.5 183V218C246.5 218.966 246.108 219.841 245.475 220.475C245.15 220.8 244.765 221.059 244.34 221.235C243.915 221.41 243.46 221.501 243 221.5H202.5V179.5H243Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_24">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M211.5 179.5V221.512Z" fill="white" />
+						<path d="M211.5 179.5V221.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_109">
+						<path
+							id="Vector_66"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M218.264 207.2V198.528H215.768V197.024C217.448 196.976 218.232 196.864 218.792 195.6H220.472V207.2H218.264ZM222.312 201.376C222.312 197.856 223.88 195.392 226.984 195.392C230.072 195.392 231.64 197.856 231.64 201.376C231.64 204.912 230.072 207.408 226.984 207.408C223.88 207.408 222.312 204.912 222.312 201.376ZM229.384 201.376C229.384 198.608 228.552 197.056 226.984 197.056C225.416 197.056 224.568 198.608 224.568 201.376C224.568 204.16 225.416 205.744 226.984 205.744C228.552 205.744 229.384 204.16 229.384 201.376ZM239.384 202.192C238.888 202.816 237.96 203.296 236.728 203.296C234.6 203.296 232.808 201.824 232.808 199.328C232.808 196.944 234.616 195.392 237.128 195.392C240.232 195.392 241.592 197.888 241.592 201.136C241.592 204.464 240.344 207.408 236.888 207.408C234.36 207.408 233.176 205.68 233.048 204.208H235.208C235.32 205.168 236.072 205.712 237.032 205.712C238.488 205.712 239.384 204.336 239.384 202.192ZM237.128 197.072C235.928 197.072 235.048 197.952 235.048 199.344C235.048 200.704 235.928 201.6 237.128 201.6C238.328 201.6 239.24 200.704 239.24 199.344C239.24 197.968 238.328 197.072 237.128 197.072Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_113">
+					<path
+						data-element="seat" id="seat_113_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M187 179.5C187.966 179.5 188.841 179.892 189.475 180.525C189.8 180.85 190.059 181.235 190.235 181.66C190.41 182.085 190.501 182.54 190.5 183V218C190.5 218.966 190.108 219.841 189.475 220.475C189.15 220.8 188.765 221.059 188.34 221.235C187.915 221.41 187.46 221.501 187 221.5H146.5V179.5H187Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_25">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M155.5 179.5V221.512Z" fill="white" />
+						<path d="M155.5 179.5V221.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_113">
+						<path
+							id="Vector_67"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M164.68 207.2V198.528H162.184V197.024C163.864 196.976 164.648 196.864 165.208 195.6H166.888V207.2H164.68ZM170.584 207.2V198.528H168.088V197.024C169.768 196.976 170.552 196.864 171.112 195.6H172.792V207.2H170.584ZM180.952 203.936C180.952 202.576 179.688 202.032 178.04 202.032H177.576V200.304H177.96C179.624 200.304 180.664 199.696 180.664 198.608C180.664 197.6 179.784 197.056 178.824 197.056C177.496 197.056 176.648 197.904 176.536 199.104H174.44C174.696 196.8 176.296 195.392 178.952 195.392C180.888 195.392 182.888 196.32 182.888 198.512C182.888 199.632 182.2 200.576 181.32 201.056C181.876 201.287 182.351 201.678 182.685 202.179C183.018 202.681 183.195 203.27 183.192 203.872C183.192 206.224 181.16 207.408 178.712 207.408C176.056 207.408 174.488 205.68 174.344 203.552H176.424C176.584 204.72 177.336 205.744 178.776 205.744C179.976 205.744 180.952 205.024 180.952 203.936Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_68">
+					<path
+						data-element="seat" id="seat_68_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M880.398 101.5H840.001C839.034 101.5 838.159 101.108 837.526 100.475C837.2 100.15 836.942 99.7645 836.766 99.3398C836.591 98.915 836.5 98.4597 836.501 98V63C836.501 62.034 836.893 61.159 837.526 60.525C837.851 60.1995 838.236 59.9414 838.661 59.7655C839.086 59.5896 839.541 59.4994 840.001 59.5L880.398 59.5V101.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<path id="Line_26" d="M871.419 101.5V59.488" stroke="#1B50AF" stroke-linecap="square" />
+					<g id="seatnumber_68">
+						<path
+							id="Vector_68"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M847.653 80.608C848.149 79.984 849.077 79.504 850.293 79.504C852.437 79.504 854.229 80.96 854.229 83.472C854.229 85.856 852.421 87.408 849.909 87.408C846.805 87.408 845.445 84.912 845.445 81.664C845.445 78.336 846.677 75.392 850.149 75.392C852.677 75.392 853.861 77.104 853.989 78.592H851.829C851.717 77.632 850.949 77.072 850.005 77.072C848.549 77.072 847.653 78.448 847.653 80.608ZM849.909 85.744C851.109 85.744 851.989 84.848 851.989 83.44C851.989 82.08 851.109 81.184 849.909 81.184C848.693 81.184 847.781 82.08 847.781 83.44C847.781 84.832 848.693 85.744 849.909 85.744ZM864.02 78.368C864.02 79.408 863.604 80.384 862.612 80.992C863.908 81.728 864.372 82.768 864.372 83.888C864.372 86.16 862.436 87.408 859.972 87.408C857.524 87.408 855.588 86.16 855.588 83.888C855.588 82.768 856.068 81.712 857.364 80.992C856.404 80.448 855.94 79.408 855.94 78.384C855.94 76.656 857.524 75.392 859.972 75.392C862.436 75.392 864.02 76.656 864.02 78.368ZM859.972 77.056C858.82 77.056 858.084 77.68 858.084 78.64C858.084 79.6 858.82 80.304 859.972 80.304C861.124 80.304 861.876 79.6 861.876 78.64C861.876 77.68 861.124 77.056 859.972 77.056ZM857.844 83.792C857.844 84.944 858.676 85.744 859.972 85.744C861.284 85.744 862.116 84.944 862.116 83.792C862.116 82.64 861.284 81.888 859.972 81.888C858.676 81.888 857.844 82.64 857.844 83.792Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_67">
+					<path
+						data-element="seat" id="seat_67_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M880.398 58.5L840.001 58.5C839.034 58.5 838.159 58.108 837.526 57.475C837.2 57.1503 836.942 56.7645 836.766 56.3398C836.591 55.915 836.5 55.4597 836.501 55V20C836.501 19.034 836.893 18.159 837.526 17.525C837.851 17.1995 838.236 16.9414 838.661 16.7655C839.086 16.5896 839.541 16.4994 840.001 16.5L880.398 16.5V58.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<path id="Line_27" d="M871.419 58.5V16.488" stroke="#1B50AF" stroke-linecap="square" />
+					<g id="seatnumber_67">
+						<path
+							id="Vector_69"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M848.701 37.608C849.197 36.984 850.125 36.504 851.341 36.504C853.485 36.504 855.277 37.96 855.277 40.472C855.277 42.856 853.469 44.408 850.957 44.408C847.853 44.408 846.493 41.912 846.493 38.664C846.493 35.336 847.725 32.392 851.197 32.392C853.725 32.392 854.909 34.104 855.037 35.592H852.877C852.765 34.632 851.997 34.072 851.053 34.072C849.597 34.072 848.701 35.448 848.701 37.608ZM850.957 42.744C852.157 42.744 853.037 41.848 853.037 40.44C853.037 39.08 852.157 38.184 850.957 38.184C849.741 38.184 848.829 39.08 848.829 40.44C848.829 41.832 849.741 42.744 850.957 42.744ZM855.853 32.6H864.381V34.456C861.357 37.544 859.885 40.024 859.661 44.2H857.229C857.421 40.168 859.565 36.904 862.157 34.456H855.853V32.6Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_72">
+					<path
+						data-element="seat" id="seat_72_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M824.398 101.5H784.001C783.034 101.5 782.159 101.108 781.526 100.475C781.2 100.15 780.942 99.7645 780.766 99.3398C780.591 98.915 780.5 98.4597 780.501 98V63C780.501 62.034 780.893 61.159 781.526 60.525C781.851 60.1995 782.236 59.9414 782.661 59.7655C783.086 59.5896 783.541 59.4994 784.001 59.5L824.398 59.5V101.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_28">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M815.419 101.5V59.488Z" fill="white" />
+						<path d="M815.419 101.5V59.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_72">
+						<path
+							id="Vector_70"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M790.197 75.6H798.725V77.456C795.7 80.544 794.229 83.024 794.005 87.2H791.573C791.765 83.168 793.909 79.904 796.5 77.456H790.197V75.6ZM807.029 78.512C807.029 80.688 804.917 82.96 801.349 85.344H807.3V87.2H798.773V85.408C802.5 82.4 804.805 80.464 804.805 78.624C804.805 77.616 804.165 77.024 803.093 77.024C802.117 77.024 801.125 77.616 801.125 79.344H798.98C798.948 76.944 800.644 75.392 803.22 75.392C805.54 75.392 807.029 76.496 807.029 78.512Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_71">
+					<path
+						data-element="seat" id="seat_71_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M824.398 58.5L784.001 58.5C783.034 58.5 782.159 58.108 781.526 57.475C781.2 57.1503 780.942 56.7645 780.766 56.3398C780.591 55.915 780.5 55.4597 780.501 55V20C780.501 19.034 780.893 18.159 781.526 17.525C781.851 17.1995 782.236 16.9414 782.661 16.7655C783.086 16.5896 783.541 16.4994 784.001 16.5L824.398 16.5V58.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_29">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M815.419 58.5V16.488Z" fill="white" />
+						<path d="M815.419 58.5V16.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_71">
+						<path
+							id="Vector_71"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M791.877 32.6H800.405V34.456C797.38 37.544 795.909 40.024 795.685 44.2H793.253C793.445 40.168 795.589 36.904 798.181 34.456H791.877V32.6ZM802.58 44.2V35.528H800.085V34.024C801.765 33.976 802.549 33.864 803.109 32.6H804.789V44.2H802.58Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_76">
+					<path
+						data-element="seat" id="seat_76_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M768.398 101.5H728.001C727.034 101.5 726.159 101.108 725.526 100.475C725.2 100.15 724.942 99.7645 724.766 99.3398C724.591 98.915 724.5 98.4597 724.501 98V63C724.501 62.034 724.893 61.159 725.526 60.525C725.851 60.1995 726.236 59.9414 726.661 59.7655C727.086 59.5896 727.541 59.4994 728.001 59.5L768.398 59.5V101.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_30">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M759.419 101.5V59.488Z" fill="white" />
+						<path d="M759.419 101.5V59.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_76">
+						<path
+							id="Vector_72"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M733.805 75.6H742.333V77.456C739.309 80.544 737.837 83.024 737.613 87.2H735.18C735.372 83.168 737.516 79.904 740.108 77.456H733.805V75.6ZM744.86 80.608C745.356 79.984 746.284 79.504 747.5 79.504C749.644 79.504 751.436 80.96 751.436 83.472C751.436 85.856 749.628 87.408 747.116 87.408C744.012 87.408 742.652 84.912 742.652 81.664C742.652 78.336 743.884 75.392 747.356 75.392C749.884 75.392 751.068 77.104 751.196 78.592H749.036C748.924 77.632 748.156 77.072 747.212 77.072C745.756 77.072 744.86 78.448 744.86 80.608ZM747.116 85.744C748.316 85.744 749.196 84.848 749.196 83.44C749.196 82.08 748.316 81.184 747.116 81.184C745.9 81.184 744.988 82.08 744.988 83.44C744.988 84.832 745.9 85.744 747.116 85.744Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_75">
+					<path
+						data-element="seat" id="seat_75_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M768.398 58.5L728.001 58.5C727.034 58.5 726.159 58.108 725.526 57.475C725.2 57.1503 724.942 56.7645 724.766 56.3398C724.591 55.915 724.5 55.4597 724.501 55V20C724.501 19.034 724.893 18.159 725.526 17.525C725.851 17.1995 726.236 16.9414 726.661 16.7655C727.086 16.5896 727.541 16.4994 728.001 16.5L768.398 16.5V58.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_31">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M759.419 58.5V16.488Z" fill="white" />
+						<path d="M759.419 58.5V16.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_75">
+						<path
+							id="Vector_73"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M733.845 32.6H742.373V34.456C739.349 37.544 737.877 40.024 737.653 44.2H735.22C735.412 40.168 737.556 36.904 740.148 34.456H733.845V32.6ZM749.14 40.392C749.14 38.808 748.068 38.024 746.996 38.024C745.972 38.024 745.236 38.536 745.012 39.08L742.996 38.984L743.765 32.6H750.917V34.456H745.573L745.253 36.936C745.733 36.584 746.485 36.296 747.557 36.296C749.541 36.296 751.381 37.704 751.381 40.376C751.381 42.936 749.397 44.408 747.013 44.408C744.293 44.408 742.853 42.552 742.725 40.552H744.805C744.933 41.752 745.621 42.744 747.045 42.744C748.261 42.744 749.141 41.864 749.141 40.392H749.14Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_80">
+					<path
+						data-element="seat" id="seat_80_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M712.398 101.5H672.001C671.034 101.5 670.159 101.108 669.526 100.475C669.2 100.15 668.942 99.7645 668.766 99.3398C668.591 98.915 668.5 98.4597 668.501 98V63C668.501 62.034 668.893 61.159 669.526 60.525C669.851 60.1995 670.236 59.9414 670.661 59.7655C671.086 59.5896 671.541 59.4994 672.001 59.5L712.398 59.5V101.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_32">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M703.419 101.5V59.488Z" fill="white" />
+						<path d="M703.419 101.5V59.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_80">
+						<path
+							id="Vector_74"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M685.693 78.368C685.693 79.408 685.277 80.384 684.285 80.992C685.581 81.728 686.045 82.768 686.045 83.888C686.045 86.16 684.109 87.408 681.645 87.408C679.197 87.408 677.261 86.16 677.261 83.888C677.261 82.768 677.741 81.712 679.037 80.992C678.077 80.448 677.613 79.408 677.613 78.384C677.613 76.656 679.197 75.392 681.645 75.392C684.109 75.392 685.693 76.656 685.693 78.368ZM681.645 77.056C680.493 77.056 679.757 77.68 679.757 78.64C679.757 79.6 680.493 80.304 681.645 80.304C682.797 80.304 683.549 79.6 683.549 78.64C683.549 77.68 682.797 77.056 681.645 77.056ZM679.517 83.792C679.517 84.944 680.349 85.744 681.645 85.744C682.957 85.744 683.789 84.944 683.789 83.792C683.789 82.64 682.957 81.888 681.645 81.888C680.349 81.888 679.517 82.64 679.517 83.792ZM687.421 81.376C687.421 77.856 688.989 75.392 692.093 75.392C695.181 75.392 696.749 77.856 696.749 81.376C696.749 84.912 695.181 87.408 692.093 87.408C688.989 87.408 687.421 84.912 687.421 81.376ZM694.493 81.376C694.493 78.608 693.661 77.056 692.093 77.056C690.525 77.056 689.677 78.608 689.677 81.376C689.677 84.16 690.525 85.744 692.093 85.744C693.661 85.744 694.493 84.16 694.493 81.376Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_79">
+					<path
+						data-element="seat" id="seat_79_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M712.398 58.5L672.001 58.5C671.034 58.5 670.159 58.108 669.526 57.475C669.2 57.1503 668.942 56.7645 668.766 56.3398C668.591 55.915 668.5 55.4597 668.501 55V20C668.501 19.034 668.893 18.159 669.526 17.525C669.851 17.1995 670.236 16.9414 670.661 16.7655C671.086 16.5896 671.541 16.4994 672.001 16.5L712.398 16.5V58.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_33">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M703.419 58.5V16.488Z" fill="white" />
+						<path d="M703.419 58.5V16.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_79">
+						<path
+							id="Vector_75"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M677.853 32.6H686.38V34.456C683.357 37.544 681.885 40.024 681.66 44.2H679.229C679.421 40.168 681.565 36.904 684.157 34.456H677.853V32.6ZM693.165 39.192C692.669 39.816 691.741 40.296 690.509 40.296C688.381 40.296 686.589 38.824 686.589 36.328C686.589 33.944 688.397 32.392 690.909 32.392C694.013 32.392 695.373 34.888 695.373 38.136C695.373 41.464 694.125 44.408 690.669 44.408C688.141 44.408 686.957 42.68 686.829 41.208H688.989C689.101 42.168 689.853 42.712 690.813 42.712C692.269 42.712 693.165 41.336 693.165 39.192ZM690.909 34.072C689.709 34.072 688.829 34.952 688.829 36.344C688.829 37.704 689.709 38.6 690.909 38.6C692.109 38.6 693.021 37.704 693.021 36.344C693.021 34.968 692.109 34.072 690.909 34.072Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_84">
+					<path
+						data-element="seat" id="seat_84_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M656.398 101.5H616.001C615.034 101.5 614.159 101.108 613.526 100.475C613.201 100.15 612.942 99.7645 612.767 99.3398C612.591 98.915 612.5 98.4597 612.501 98V63C612.501 62.034 612.893 61.159 613.526 60.525C613.851 60.1995 614.236 59.9414 614.661 59.7655C615.086 59.5896 615.541 59.4994 616.001 59.5L656.398 59.5V101.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_34">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M647.419 101.5V59.488Z" fill="white" />
+						<path d="M647.419 101.5V59.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_84">
+						<path
+							id="Vector_76"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M629.925 78.368C629.925 79.408 629.509 80.384 628.517 80.992C629.813 81.728 630.277 82.768 630.277 83.888C630.277 86.16 628.341 87.408 625.877 87.408C623.429 87.408 621.493 86.16 621.493 83.888C621.493 82.768 621.973 81.712 623.269 80.992C622.309 80.448 621.845 79.408 621.845 78.384C621.845 76.656 623.429 75.392 625.877 75.392C628.341 75.392 629.925 76.656 629.925 78.368ZM625.877 77.056C624.725 77.056 623.989 77.68 623.989 78.64C623.989 79.6 624.725 80.304 625.877 80.304C627.029 80.304 627.78 79.6 627.78 78.64C627.78 77.68 627.029 77.056 625.877 77.056ZM623.749 83.792C623.749 84.944 624.581 85.744 625.877 85.744C627.189 85.744 628.021 84.944 628.021 83.792C628.021 82.64 627.189 81.888 625.877 81.888C624.581 81.888 623.749 82.64 623.749 83.792ZM641.045 84.416H639.06V87.2H636.868V84.416H631.14V82.688L636.9 75.6H639.06V82.544H641.044L641.045 84.416ZM633.557 82.544H636.869V78.4L633.557 82.544Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_83">
+					<path
+						data-element="seat" id="seat_83_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M656.398 58.5L616.001 58.5C615.034 58.5 614.159 58.108 613.526 57.475C613.201 57.1503 612.942 56.7645 612.767 56.3398C612.591 55.915 612.5 55.4597 612.501 55V20C612.501 19.034 612.893 18.159 613.526 17.525C613.851 17.1995 614.236 16.9414 614.661 16.7655C615.086 16.5896 615.541 16.4994 616.001 16.5L656.398 16.5V58.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_35">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M647.419 58.5V16.488Z" fill="white" />
+						<path d="M647.419 58.5V16.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_83">
+						<path
+							id="Vector_77"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M630.085 35.368C630.085 36.408 629.669 37.384 628.677 37.992C629.973 38.728 630.437 39.768 630.437 40.888C630.437 43.16 628.501 44.408 626.037 44.408C623.589 44.408 621.653 43.16 621.653 40.888C621.653 39.768 622.133 38.712 623.429 37.992C622.469 37.448 622.005 36.408 622.005 35.384C622.005 33.656 623.589 32.392 626.037 32.392C628.501 32.392 630.085 33.656 630.085 35.368ZM626.037 34.056C624.885 34.056 624.149 34.68 624.149 35.64C624.149 36.6 624.885 37.304 626.037 37.304C627.189 37.304 627.94 36.6 627.94 35.64C627.94 34.68 627.188 34.056 626.036 34.056H626.037ZM623.909 40.792C623.909 41.944 624.741 42.744 626.037 42.744C627.349 42.744 628.181 41.944 628.181 40.792C628.181 39.64 627.349 38.888 626.037 38.888C624.741 38.888 623.909 39.64 623.909 40.792ZM638.133 40.936C638.133 39.576 636.869 39.032 635.221 39.032H634.757V37.304H635.141C636.805 37.304 637.845 36.696 637.845 35.608C637.845 34.6 636.965 34.056 636.005 34.056C634.677 34.056 633.829 34.904 633.717 36.104H631.62C631.877 33.8 633.477 32.392 636.133 32.392C638.069 32.392 640.069 33.32 640.069 35.512C640.069 36.632 639.381 37.576 638.501 38.056C639.057 38.2867 639.532 38.6777 639.866 39.1792C640.199 39.6806 640.376 40.2699 640.373 40.872C640.373 43.224 638.341 44.408 635.893 44.408C633.237 44.408 631.669 42.68 631.525 40.552H633.605C633.765 41.72 634.517 42.744 635.957 42.744C637.157 42.744 638.133 42.024 638.133 40.936Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_88">
+					<path
+						data-element="seat" id="seat_88_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M600.398 101.5H560.001C559.034 101.5 558.159 101.108 557.526 100.475C557.201 100.15 556.942 99.7645 556.767 99.3398C556.591 98.915 556.5 98.4597 556.501 98V63C556.501 62.034 556.893 61.159 557.526 60.525C557.851 60.1995 558.236 59.9414 558.661 59.7655C559.086 59.5896 559.541 59.4994 560.001 59.5L600.398 59.5V101.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_36">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M591.419 101.5V59.488Z" fill="white" />
+						<path d="M591.419 101.5V59.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_88">
+						<path
+							id="Vector_78"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M573.869 78.368C573.869 79.408 573.453 80.384 572.461 80.992C573.757 81.728 574.221 82.768 574.221 83.888C574.221 86.16 572.285 87.408 569.821 87.408C567.373 87.408 565.437 86.16 565.437 83.888C565.437 82.768 565.917 81.712 567.213 80.992C566.253 80.448 565.789 79.408 565.789 78.384C565.789 76.656 567.373 75.392 569.82 75.392C572.284 75.392 573.868 76.656 573.868 78.368H573.869ZM569.82 77.056C568.668 77.056 567.932 77.68 567.932 78.64C567.932 79.6 568.668 80.304 569.82 80.304C570.972 80.304 571.725 79.6 571.725 78.64C571.725 77.68 570.973 77.056 569.82 77.056ZM567.693 83.792C567.693 84.944 568.525 85.744 569.821 85.744C571.133 85.744 571.965 84.944 571.965 83.792C571.965 82.64 571.133 81.888 569.82 81.888C568.524 81.888 567.692 82.64 567.692 83.792H567.693ZM584.125 78.368C584.125 79.408 583.709 80.384 582.717 80.992C584.013 81.728 584.477 82.768 584.477 83.888C584.477 86.16 582.541 87.408 580.077 87.408C577.629 87.408 575.693 86.16 575.693 83.888C575.693 82.768 576.173 81.712 577.469 80.992C576.509 80.448 576.045 79.408 576.045 78.384C576.045 76.656 577.629 75.392 580.077 75.392C582.541 75.392 584.125 76.656 584.125 78.368ZM580.077 77.056C578.925 77.056 578.189 77.68 578.189 78.64C578.189 79.6 578.925 80.304 580.077 80.304C581.229 80.304 581.98 79.6 581.98 78.64C581.98 77.68 581.229 77.056 580.077 77.056ZM577.949 83.792C577.949 84.944 578.781 85.744 580.077 85.744C581.389 85.744 582.221 84.944 582.221 83.792C582.221 82.64 581.389 81.888 580.077 81.888C578.781 81.888 577.949 82.64 577.949 83.792Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_87">
+					<path
+						data-element="seat" id="seat_87_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M600.398 58.5L560.001 58.5C559.034 58.5 558.159 58.108 557.526 57.475C557.201 57.1503 556.942 56.7645 556.767 56.3398C556.591 55.915 556.5 55.4597 556.501 55V20C556.501 19.034 556.893 18.159 557.526 17.525C557.851 17.1995 558.236 16.9414 558.661 16.7655C559.086 16.5896 559.541 16.4994 560.001 16.5L600.398 16.5V58.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_37">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M591.419 58.5V16.488Z" fill="white" />
+						<path d="M591.419 58.5V16.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_87">
+						<path
+							id="Vector_79"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M574.917 35.368C574.917 36.408 574.501 37.384 573.509 37.992C574.805 38.728 575.269 39.768 575.269 40.888C575.269 43.16 573.333 44.408 570.869 44.408C568.421 44.408 566.485 43.16 566.485 40.888C566.485 39.768 566.965 38.712 568.261 37.992C567.3 37.448 566.837 36.408 566.837 35.384C566.837 33.656 568.42 32.392 570.869 32.392C573.333 32.392 574.917 33.656 574.917 35.368ZM570.869 34.056C569.717 34.056 568.981 34.68 568.981 35.64C568.981 36.6 569.717 37.304 570.869 37.304C572.021 37.304 572.773 36.6 572.773 35.64C572.773 34.68 572.02 34.056 570.869 34.056ZM568.74 40.792C568.74 41.944 569.572 42.744 570.868 42.744C572.18 42.744 573.012 41.944 573.012 40.792C573.012 39.64 572.18 38.888 570.869 38.888C569.573 38.888 568.74 39.64 568.74 40.792ZM575.957 32.6H584.485V34.456C581.461 37.544 579.989 40.024 579.765 44.2H577.333C577.525 40.168 579.669 36.904 582.261 34.456H575.957V32.6Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_92">
+					<path
+						data-element="seat" id="seat_92_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M504.001 101.5C503.034 101.5 502.159 101.108 501.526 100.475C501.201 100.15 500.942 99.7645 500.767 99.3398C500.591 98.915 500.5 98.4597 500.501 98V63C500.501 62.034 500.893 61.159 501.526 60.525C501.851 60.1995 502.236 59.9414 502.661 59.7655C503.086 59.5896 503.541 59.4994 504.001 59.5L544.398 59.5V101.5H504.001Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_38">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M535.419 101.5V59.488Z" fill="white" />
+						<path d="M535.419 101.5V59.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_92">
+						<path
+							id="Vector_80"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M516.453 82.192C515.957 82.816 515.029 83.296 513.797 83.296C511.669 83.296 509.877 81.824 509.877 79.328C509.877 76.944 511.685 75.392 514.197 75.392C517.3 75.392 518.66 77.888 518.66 81.136C518.66 84.464 517.412 87.408 513.956 87.408C511.428 87.408 510.244 85.68 510.116 84.208H512.276C512.388 85.168 513.14 85.712 514.1 85.712C515.556 85.712 516.453 84.336 516.453 82.192ZM514.197 77.072C512.997 77.072 512.117 77.952 512.117 79.344C512.117 80.704 512.997 81.6 514.197 81.6C515.397 81.6 516.309 80.704 516.309 79.344C516.309 77.968 515.397 77.072 514.197 77.072ZM527.925 78.512C527.925 80.688 525.813 82.96 522.245 85.344H528.197V87.2H519.669V85.408C523.397 82.4 525.7 80.464 525.7 78.624C525.7 77.616 525.06 77.024 523.988 77.024C523.012 77.024 522.02 77.616 522.02 79.344H519.876C519.844 76.944 521.54 75.392 524.116 75.392C526.436 75.392 527.925 76.496 527.925 78.512Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_91">
+					<path
+						data-element="seat" id="seat_91_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M504.001 58.5C503.034 58.5 502.159 58.108 501.526 57.475C501.201 57.1503 500.942 56.7645 500.767 56.3398C500.591 55.915 500.5 55.4597 500.501 55V20C500.501 19.034 500.893 18.159 501.526 17.525C501.851 17.1995 502.236 16.9414 502.661 16.7655C503.086 16.5896 503.541 16.4994 504.001 16.5L544.398 16.5V58.5L504.001 58.5Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_39">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M535.419 58.5V16.488Z" fill="white" />
+						<path d="M535.419 58.5V16.488" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_91">
+						<path
+							id="Vector_81"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M518.133 39.192C517.637 39.816 516.709 40.296 515.477 40.296C513.349 40.296 511.557 38.824 511.557 36.328C511.557 33.944 513.365 32.392 515.877 32.392C518.98 32.392 520.34 34.888 520.34 38.136C520.34 41.464 519.092 44.408 515.636 44.408C513.108 44.408 511.924 42.68 511.796 41.208H513.956C514.068 42.168 514.82 42.712 515.78 42.712C517.236 42.712 518.133 41.336 518.133 39.192ZM515.877 34.072C514.677 34.072 513.797 34.952 513.797 36.344C513.797 37.704 514.677 38.6 515.877 38.6C517.077 38.6 517.989 37.704 517.989 36.344C517.989 34.968 517.077 34.072 515.877 34.072ZM523.477 44.2V35.528H520.98V34.024C522.66 33.976 523.444 33.864 524.004 32.6H525.684V44.2H523.476H523.477Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_96">
+					<path
+						data-element="seat" id="seat_96_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M467 59.5C467.966 59.5 468.841 59.892 469.475 60.525C469.8 60.8497 470.059 61.2355 470.235 61.6602C470.41 62.085 470.501 62.5403 470.5 63V98C470.5 98.966 470.108 99.841 469.475 100.475C469.15 100.8 468.765 101.059 468.34 101.235C467.915 101.41 467.46 101.501 467 101.5H426.5V59.5H467Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_40">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M435.5 59.5V101.512Z" fill="white" />
+						<path d="M435.5 59.5V101.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_96">
+						<path
+							id="Vector_82"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M450.104 82.192C449.608 82.816 448.68 83.296 447.448 83.296C445.32 83.296 443.528 81.824 443.528 79.328C443.528 76.944 445.336 75.392 447.848 75.392C450.952 75.392 452.312 77.888 452.312 81.136C452.312 84.464 451.064 87.408 447.608 87.408C445.08 87.408 443.896 85.68 443.768 84.208H445.928C446.04 85.168 446.792 85.712 447.752 85.712C449.208 85.712 450.104 84.336 450.104 82.192ZM447.848 77.072C446.648 77.072 445.768 77.952 445.768 79.344C445.768 80.704 446.648 81.6 447.848 81.6C449.048 81.6 449.96 80.704 449.96 79.344C449.96 77.968 449.048 77.072 447.848 77.072ZM455.8 80.608C456.296 79.984 457.224 79.504 458.44 79.504C460.584 79.504 462.376 80.96 462.376 83.472C462.376 85.856 460.568 87.408 458.056 87.408C454.952 87.408 453.592 84.912 453.592 81.664C453.592 78.336 454.824 75.392 458.296 75.392C460.824 75.392 462.008 77.104 462.136 78.592H459.976C459.864 77.632 459.096 77.072 458.152 77.072C456.696 77.072 455.8 78.448 455.8 80.608ZM458.056 85.744C459.256 85.744 460.136 84.848 460.136 83.44C460.136 82.08 459.256 81.184 458.056 81.184C456.84 81.184 455.928 82.08 455.928 83.44C455.928 84.832 456.84 85.744 458.056 85.744Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_95">
+					<path
+						data-element="seat" id="seat_95_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M467 16.5C467.966 16.5 468.841 16.892 469.475 17.525C469.8 17.8497 470.059 18.2355 470.235 18.6602C470.41 19.085 470.501 19.5403 470.5 20V55C470.5 55.966 470.108 56.841 469.475 57.475C469.15 57.8005 468.765 58.0586 468.34 58.2345C467.915 58.4104 467.46 58.5006 467 58.5H426.5V16.5H467Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_41">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M435.5 16.5V58.512Z" fill="white" />
+						<path d="M435.5 16.5V58.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_95">
+						<path
+							id="Vector_83"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M450.144 39.192C449.648 39.816 448.72 40.296 447.488 40.296C445.36 40.296 443.568 38.824 443.568 36.328C443.568 33.944 445.376 32.392 447.888 32.392C450.992 32.392 452.352 34.888 452.352 38.136C452.352 41.464 451.104 44.408 447.648 44.408C445.12 44.408 443.936 42.68 443.808 41.208H445.968C446.08 42.168 446.832 42.712 447.792 42.712C449.248 42.712 450.144 41.336 450.144 39.192ZM447.888 34.072C446.688 34.072 445.808 34.952 445.808 36.344C445.808 37.704 446.688 38.6 447.888 38.6C449.088 38.6 450 37.704 450 36.344C450 34.968 449.088 34.072 447.888 34.072ZM460.08 40.392C460.08 38.808 459.008 38.024 457.936 38.024C456.912 38.024 456.176 38.536 455.952 39.08L453.936 38.984L454.704 32.6H461.856V34.456H456.512L456.192 36.936C456.672 36.584 457.424 36.296 458.496 36.296C460.48 36.296 462.32 37.704 462.32 40.376C462.32 42.936 460.336 44.408 457.952 44.408C455.232 44.408 453.792 42.552 453.664 40.552H455.744C455.872 41.752 456.56 42.744 457.984 42.744C459.2 42.744 460.08 41.864 460.08 40.392Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_100">
+					<path
+						data-element="seat" id="seat_100_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M411 59.5C411.966 59.5 412.841 59.892 413.475 60.525C413.8 60.8497 414.059 61.2355 414.235 61.6602C414.41 62.085 414.501 62.5403 414.5 63V98C414.5 98.966 414.108 99.841 413.475 100.475C413.15 100.8 412.765 101.059 412.34 101.235C411.915 101.41 411.46 101.501 411 101.5H370.5V59.5H411Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_42">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M379.5 59.5V101.512Z" fill="white" />
+						<path d="M379.5 59.5V101.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_100">
+						<path
+							id="Vector_84"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M385.936 87.2V78.528H383.44V77.024C385.12 76.976 385.904 76.864 386.464 75.6H388.144V87.2H385.936ZM389.984 81.376C389.984 77.856 391.552 75.392 394.656 75.392C397.744 75.392 399.312 77.856 399.312 81.376C399.312 84.912 397.744 87.408 394.656 87.408C391.552 87.408 389.984 84.912 389.984 81.376ZM397.056 81.376C397.056 78.608 396.224 77.056 394.656 77.056C393.088 77.056 392.24 78.608 392.24 81.376C392.24 84.16 393.088 85.744 394.656 85.744C396.224 85.744 397.056 84.16 397.056 81.376ZM400.592 81.376C400.592 77.856 402.16 75.392 405.264 75.392C408.352 75.392 409.92 77.856 409.92 81.376C409.92 84.912 408.352 87.408 405.264 87.408C402.16 87.408 400.592 84.912 400.592 81.376ZM407.664 81.376C407.664 78.608 406.832 77.056 405.264 77.056C403.696 77.056 402.848 78.608 402.848 81.376C402.848 84.16 403.696 85.744 405.264 85.744C406.832 85.744 407.664 84.16 407.664 81.376Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_99">
+					<path
+						data-element="seat" id="seat_99_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M411 16.5C411.966 16.5 412.841 16.892 413.475 17.525C413.8 17.8497 414.059 18.2355 414.235 18.6602C414.41 19.085 414.501 19.5403 414.5 20V55C414.5 55.966 414.108 56.841 413.475 57.475C413.15 57.8005 412.765 58.0586 412.34 58.2345C411.915 58.4104 411.46 58.5006 411 58.5H370.5V16.5H411Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_43">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M379.5 16.5V58.512Z" fill="white" />
+						<path d="M379.5 16.5V58.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_99">
+						<path
+							id="Vector_85"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M394.152 39.192C393.656 39.816 392.728 40.296 391.496 40.296C389.368 40.296 387.576 38.824 387.576 36.328C387.576 33.944 389.384 32.392 391.896 32.392C395 32.392 396.36 34.888 396.36 38.136C396.36 41.464 395.112 44.408 391.656 44.408C389.128 44.408 387.944 42.68 387.816 41.208H389.976C390.088 42.168 390.84 42.712 391.8 42.712C393.256 42.712 394.152 41.336 394.152 39.192ZM391.896 34.072C390.696 34.072 389.816 34.952 389.816 36.344C389.816 37.704 390.696 38.6 391.896 38.6C393.096 38.6 394.008 37.704 394.008 36.344C394.008 34.968 393.096 34.072 391.896 34.072ZM404.104 39.192C403.608 39.816 402.68 40.296 401.448 40.296C399.32 40.296 397.528 38.824 397.528 36.328C397.528 33.944 399.336 32.392 401.848 32.392C404.952 32.392 406.312 34.888 406.312 38.136C406.312 41.464 405.064 44.408 401.608 44.408C399.08 44.408 397.896 42.68 397.768 41.208H399.928C400.04 42.168 400.792 42.712 401.752 42.712C403.208 42.712 404.104 41.336 404.104 39.192ZM401.848 34.072C400.648 34.072 399.768 34.952 399.768 36.344C399.768 37.704 400.648 38.6 401.848 38.6C403.048 38.6 403.96 37.704 403.96 36.344C403.96 34.968 403.048 34.072 401.848 34.072Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_104">
+					<path
+						data-element="seat" id="seat_104_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M355 59.5C355.966 59.5 356.841 59.892 357.475 60.525C357.8 60.8497 358.059 61.2355 358.235 61.6602C358.41 62.085 358.501 62.5403 358.5 63V98C358.5 98.966 358.108 99.841 357.475 100.475C357.15 100.8 356.765 101.059 356.34 101.235C355.915 101.41 355.46 101.501 355 101.5H314.5V59.5H355Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_44">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M323.5 59.5V101.512Z" fill="white" />
+						<path d="M323.5 59.5V101.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_104">
+						<path
+							id="Vector_86"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M330.168 87.2V78.528H327.672V77.024C329.352 76.976 330.136 76.864 330.696 75.6H332.376V87.2H330.168ZM334.216 81.376C334.216 77.856 335.784 75.392 338.888 75.392C341.976 75.392 343.544 77.856 343.544 81.376C343.544 84.912 341.976 87.408 338.888 87.408C335.784 87.408 334.216 84.912 334.216 81.376ZM341.288 81.376C341.288 78.608 340.456 77.056 338.888 77.056C337.32 77.056 336.472 78.608 336.472 81.376C336.472 84.16 337.32 85.744 338.888 85.744C340.456 85.744 341.288 84.16 341.288 81.376ZM354.216 84.416H352.232V87.2H350.04V84.416H344.312V82.688L350.072 75.6H352.232V82.544H354.216V84.416ZM346.728 82.544H350.04V78.4L346.728 82.544Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_103">
+					<path
+						data-element="seat" id="seat_103_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M355 16.5C355.966 16.5 356.841 16.892 357.475 17.525C357.8 17.8497 358.059 18.2355 358.235 18.6602C358.41 19.085 358.501 19.5403 358.5 20V55C358.5 55.966 358.108 56.841 357.475 57.475C357.15 57.8005 356.765 58.0586 356.34 58.2345C355.915 58.4104 355.46 58.5006 355 58.5H314.5V16.5H355Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_45">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M323.5 16.5V58.512Z" fill="white" />
+						<path d="M323.5 16.5V58.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_103">
+						<path
+							id="Vector_87"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M330.328 44.2V35.528H327.832V34.024C329.512 33.976 330.296 33.864 330.856 32.6H332.536V44.2H330.328ZM334.376 38.376C334.376 34.856 335.944 32.392 339.048 32.392C342.136 32.392 343.704 34.856 343.704 38.376C343.704 41.912 342.136 44.408 339.048 44.408C335.944 44.408 334.376 41.912 334.376 38.376ZM341.448 38.376C341.448 35.608 340.616 34.056 339.048 34.056C337.48 34.056 336.632 35.608 336.632 38.376C336.632 41.16 337.48 42.744 339.048 42.744C340.616 42.744 341.448 41.16 341.448 38.376ZM351.304 40.936C351.304 39.576 350.04 39.032 348.392 39.032H347.928V37.304H348.312C349.976 37.304 351.016 36.696 351.016 35.608C351.016 34.6 350.136 34.056 349.176 34.056C347.848 34.056 347 34.904 346.888 36.104H344.792C345.048 33.8 346.648 32.392 349.304 32.392C351.24 32.392 353.24 33.32 353.24 35.512C353.24 36.632 352.552 37.576 351.672 38.056C352.228 38.2867 352.703 38.6777 353.037 39.1791C353.37 39.6806 353.547 40.2699 353.544 40.872C353.544 43.224 351.512 44.408 349.064 44.408C346.408 44.408 344.84 42.68 344.696 40.552H346.776C346.936 41.72 347.688 42.744 349.128 42.744C350.328 42.744 351.304 42.024 351.304 40.936Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_108">
+					<path
+						data-element="seat" id="seat_108_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M299 59.5C299.966 59.5 300.841 59.892 301.475 60.525C301.8 60.8497 302.059 61.2355 302.235 61.6602C302.41 62.085 302.501 62.5403 302.5 63V98C302.5 98.966 302.108 99.841 301.475 100.475C301.15 100.8 300.765 101.059 300.34 101.235C299.915 101.41 299.46 101.501 299 101.5H258.5V59.5H299Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_46">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M267.5 59.5V101.512Z" fill="white" />
+						<path d="M267.5 59.5V101.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_108">
+						<path
+							id="Vector_88"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M274.112 87.2V78.528H271.616V77.024C273.296 76.976 274.08 76.864 274.64 75.6H276.32V87.2H274.112ZM278.16 81.376C278.16 77.856 279.728 75.392 282.832 75.392C285.92 75.392 287.488 77.856 287.488 81.376C287.488 84.912 285.92 87.408 282.832 87.408C279.728 87.408 278.16 84.912 278.16 81.376ZM285.232 81.376C285.232 78.608 284.4 77.056 282.832 77.056C281.264 77.056 280.416 78.608 280.416 81.376C280.416 84.16 281.264 85.744 282.832 85.744C284.4 85.744 285.232 84.16 285.232 81.376ZM297.296 78.368C297.296 79.408 296.88 80.384 295.888 80.992C297.184 81.728 297.648 82.768 297.648 83.888C297.648 86.16 295.712 87.408 293.248 87.408C290.8 87.408 288.864 86.16 288.864 83.888C288.864 82.768 289.344 81.712 290.64 80.992C289.68 80.448 289.216 79.408 289.216 78.384C289.216 76.656 290.8 75.392 293.248 75.392C295.712 75.392 297.296 76.656 297.296 78.368ZM293.248 77.056C292.096 77.056 291.36 77.68 291.36 78.64C291.36 79.6 292.096 80.304 293.248 80.304C294.4 80.304 295.152 79.6 295.152 78.64C295.152 77.68 294.4 77.056 293.248 77.056ZM291.12 83.792C291.12 84.944 291.952 85.744 293.248 85.744C294.56 85.744 295.392 84.944 295.392 83.792C295.392 82.64 294.56 81.888 293.248 81.888C291.952 81.888 291.12 82.64 291.12 83.792Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_107">
+					<path
+						data-element="seat" id="seat_107_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M299 16.5C299.966 16.5 300.841 16.892 301.475 17.525C301.8 17.8497 302.059 18.2355 302.235 18.6602C302.41 19.085 302.501 19.5403 302.5 20V55C302.5 55.966 302.108 56.841 301.475 57.475C301.15 57.8005 300.765 58.0586 300.34 58.2345C299.915 58.4104 299.46 58.5006 299 58.5H258.5V16.5H299Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_47">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M267.5 16.5V58.512Z" fill="white" />
+						<path d="M267.5 16.5V58.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_107">
+						<path
+							id="Vector_89"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M275.16 44.2V35.528H272.664V34.024C274.344 33.976 275.128 33.864 275.688 32.6H277.368V44.2H275.16ZM279.208 38.376C279.208 34.856 280.776 32.392 283.88 32.392C286.968 32.392 288.536 34.856 288.536 38.376C288.536 41.912 286.968 44.408 283.88 44.408C280.776 44.408 279.208 41.912 279.208 38.376ZM286.28 38.376C286.28 35.608 285.448 34.056 283.88 34.056C282.312 34.056 281.464 35.608 281.464 38.376C281.464 41.16 282.312 42.744 283.88 42.744C285.448 42.744 286.28 41.16 286.28 38.376ZM289.128 32.6H297.656V34.456C294.632 37.544 293.16 40.024 292.936 44.2H290.504C290.696 40.168 292.84 36.904 295.432 34.456H289.128V32.6Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_112">
+					<path
+						data-element="seat" id="seat_112_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M243 59.5C243.966 59.5 244.841 59.892 245.475 60.525C245.8 60.8497 246.059 61.2355 246.235 61.6602C246.41 62.085 246.501 62.5403 246.5 63V98C246.5 98.966 246.108 99.841 245.475 100.475C245.15 100.8 244.765 101.059 244.34 101.235C243.915 101.41 243.46 101.501 243 101.5H202.5V59.5H243Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_48">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M211.5 59.5V101.512Z" fill="white" />
+						<path d="M211.5 59.5V101.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_112">
+						<path
+							id="Vector_90"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M220.96 87.2V78.528H218.464V77.024C220.144 76.976 220.928 76.864 221.488 75.6H223.168V87.2H220.96ZM226.864 87.2V78.528H224.368V77.024C226.048 76.976 226.832 76.864 227.392 75.6H229.072V87.2H226.864ZM238.896 78.512C238.896 80.688 236.784 82.96 233.216 85.344H239.168V87.2H230.64V85.408C234.368 82.4 236.672 80.464 236.672 78.624C236.672 77.616 236.032 77.024 234.96 77.024C233.984 77.024 232.992 77.616 232.992 79.344H230.848C230.816 76.944 232.512 75.392 235.088 75.392C237.408 75.392 238.896 76.496 238.896 78.512Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_111">
+					<path
+						data-element="seat" id="seat_111_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M243 16.5C243.966 16.5 244.841 16.892 245.475 17.525C245.8 17.8497 246.059 18.2355 246.235 18.6602C246.41 19.085 246.501 19.5403 246.5 20V55C246.5 55.966 246.108 56.841 245.475 57.475C245.15 57.8005 244.765 58.0586 244.34 58.2345C243.915 58.4104 243.46 58.5006 243 58.5H202.5V16.5H243Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_49">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M211.5 16.5V58.512Z" fill="white" />
+						<path d="M211.5 16.5V58.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_111">
+						<path
+							id="Vector_91"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M222.64 44.2V35.528H220.144V34.024C221.824 33.976 222.608 33.864 223.168 32.6H224.848V44.2H222.64ZM228.544 44.2V35.528H226.048V34.024C227.728 33.976 228.512 33.864 229.072 32.6H230.752V44.2H228.544ZM234.448 44.2V35.528H231.952V34.024C233.632 33.976 234.416 33.864 234.976 32.6H236.656V44.2H234.448Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_116">
+					<path
+						data-element="seat" id="seat_116_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M187 59.5C187.966 59.5 188.841 59.892 189.475 60.525C189.8 60.8497 190.059 61.2355 190.235 61.6602C190.41 62.085 190.501 62.5403 190.5 63V98C190.5 98.966 190.108 99.841 189.475 100.475C189.15 100.8 188.765 101.059 188.34 101.235C187.915 101.41 187.46 101.501 187 101.5H146.5V59.5H187Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_50">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M155.5 59.5V101.512Z" fill="white" />
+						<path d="M155.5 59.5V101.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_116">
+						<path
+							id="Vector_92"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M164.568 87.2V78.528H162.072V77.024C163.752 76.976 164.536 76.864 165.096 75.6H166.776V87.2H164.568ZM170.472 87.2V78.528H167.976V77.024C169.656 76.976 170.44 76.864 171 75.6H172.68V87.2H170.472ZM176.728 80.608C177.224 79.984 178.152 79.504 179.368 79.504C181.512 79.504 183.304 80.96 183.304 83.472C183.304 85.856 181.496 87.408 178.984 87.408C175.88 87.408 174.52 84.912 174.52 81.664C174.52 78.336 175.752 75.392 179.224 75.392C181.752 75.392 182.936 77.104 183.064 78.592H180.904C180.792 77.632 180.024 77.072 179.08 77.072C177.624 77.072 176.728 78.448 176.728 80.608ZM178.984 85.744C180.184 85.744 181.064 84.848 181.064 83.44C181.064 82.08 180.184 81.184 178.984 81.184C177.768 81.184 176.856 82.08 176.856 83.44C176.856 84.832 177.768 85.744 178.984 85.744Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g data-element="seat" id="seat_115">
+					<path
+						data-element="seat" id="seat_115_shape"
+						fill-rule="evenodd"
+						clip-rule="evenodd"
+						d="M187 16.5C187.966 16.5 188.841 16.892 189.475 17.525C189.8 17.8497 190.059 18.2355 190.235 18.6602C190.41 19.085 190.501 19.5403 190.5 20V55C190.5 55.966 190.108 56.841 189.475 57.475C189.15 57.8005 188.765 58.0586 188.34 58.2345C187.915 58.4104 187.46 58.5006 187 58.5H146.5V16.5H187Z"
+						fill="white"
+						stroke="#1B50AF"
+					/>
+					<g id="Line_51">
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M155.5 16.5V58.512Z" fill="white" />
+						<path d="M155.5 16.5V58.512" stroke="#1B50AF" stroke-linecap="square" />
+					</g>
+					<g id="seatnumber_115">
+						<path
+							id="Vector_93"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M164.608 44.2V35.528H162.112V34.024C163.792 33.976 164.576 33.864 165.136 32.6H166.816V44.2H164.608ZM170.512 44.2V35.528H168.016V34.024C169.696 33.976 170.48 33.864 171.04 32.6H172.72V44.2H170.512ZM181.008 40.392C181.008 38.808 179.936 38.024 178.864 38.024C177.84 38.024 177.104 38.536 176.88 39.08L174.864 38.984L175.632 32.6H182.784V34.456H177.44L177.12 36.936C177.6 36.584 178.352 36.296 179.424 36.296C181.408 36.296 183.248 37.704 183.248 40.376C183.248 42.936 181.264 44.408 178.88 44.408C176.16 44.408 174.72 42.552 174.592 40.552H176.672C176.8 41.752 177.488 42.744 178.912 42.744C180.128 42.744 181.008 41.864 181.008 40.392Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+			</g>
+			<g id="Service-badges">
+				<g id="phone" data-element="telephone-booth">
+					<path
+						id="Vector_94"
+						d="M61 146.422C76.464 146.422 89 133.886 89 118.422C89 102.958 76.464 90.422 61 90.422C45.536 90.422 33 102.958 33 118.422C33 133.886 45.536 146.422 61 146.422Z"
+						fill="#F2F2F2"
+						stroke="white"
+						stroke-width="2"
+					/>
+					<g id="Icon">
+						<path
+							id="Vector_95"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M64.25 109.422H57.75C57.06 109.422 56.5 109.982 56.5 110.672V111.422H65.5V110.672C65.5 109.982 64.94 109.422 64.25 109.422ZM60 126.672V127.422H60.75C61.44 127.422 62 126.862 62 126.172V125.422H61.25C60.56 125.422 60 125.982 60 126.672ZM56.5 123.172C56.5 123.862 57.06 124.422 57.75 124.422H64.25C64.94 124.422 65.5 123.862 65.5 123.172V122.422H56.5V123.172ZM66.5 127.422C66.5 127.687 66.3946 127.942 66.2071 128.129C66.0196 128.317 65.7652 128.422 65.5 128.422H56.5C56.2348 128.422 55.9804 128.317 55.7929 128.129C55.6054 127.942 55.5 127.687 55.5 127.422V109.422C55.5 109.157 55.6054 108.902 55.7929 108.715C55.9804 108.527 56.2348 108.422 56.5 108.422H65.5C65.7652 108.422 66.0196 108.527 66.2071 108.715C66.3946 108.902 66.5 109.157 66.5 109.422V127.422ZM65.5 106.422H56.5C55.7044 106.422 54.9413 106.738 54.3787 107.301C53.8161 107.863 53.5 108.626 53.5 109.422V127.422C53.5 128.218 53.8161 128.981 54.3787 129.543C54.9413 130.106 55.7044 130.422 56.5 130.422H65.5C66.2956 130.422 67.0587 130.106 67.6213 129.543C68.1839 128.981 68.5 128.218 68.5 127.422V109.422C68.5 108.626 68.1839 107.863 67.6213 107.301C67.0587 106.738 66.2956 106.422 65.5 106.422Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g id="luggage" data-element="luggage-storage">
+					<path
+						id="Vector_96"
+						d="M929 73C944.464 73 957 60.464 957 45C957 29.536 944.464 17 929 17C913.536 17 901 29.536 901 45C901 60.464 913.536 73 929 73Z"
+						fill="#F2F2F2"
+						stroke="white"
+						stroke-width="2"
+					/>
+					<g id="Icon/Service/Luggage">
+						<path
+							id="Vector_97"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M927 37.25V37C927 36.7348 927.105 36.4804 927.293 36.2929C927.48 36.1054 927.735 36 928 36H930C930.265 36 930.52 36.1054 930.707 36.2929C930.895 36.4804 931 36.7348 931 37V37.25C931 37.94 931.56 38.5 932.25 38.5H933V37C933 36.2044 932.684 35.4413 932.121 34.8787C931.559 34.3161 930.796 34 930 34H928C927.204 34 926.441 34.3161 925.879 34.8787C925.316 35.4413 925 36.2044 925 37V38.5H925.75C926.44 38.5 927 37.94 927 37.25ZM939 51C939 51.552 938.552 52 938 52H935V42.5H934.25C933.56 42.5 933 43.06 933 43.75V52H925V43.75C925 43.06 924.44 42.5 923.75 42.5H923V52H920C919.449 52 919 51.552 919 51V42.5C919 41.948 919.449 41.5 920 41.5H938C938.552 41.5 939 41.948 939 42.5V51ZM938 39.5H920C918.345 39.5 917 40.846 917 42.5V51C917 52.654 918.345 54 920 54H921V54.75C921 55.44 921.56 56 922.25 56H923V54H935V56H935.75C936.44 56 937 55.44 937 54.75V54H938C939.654 54 941 52.654 941 51V42.5C941 40.846 939.654 39.5 938 39.5Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+				<g id="toilet" data-element="toilet">
+					<path
+						id="Vector_98"
+						d="M1010 73C1025.46 73 1038 60.464 1038 45C1038 29.536 1025.46 17 1010 17C994.536 17 982 29.536 982 45C982 60.464 994.536 73 1010 73Z"
+						fill="#F2F2F2"
+						stroke="white"
+						stroke-width="2"
+					/>
+					<g id="Icon/Service/WC">
+						<path
+							id="Vector_99"
+							fill-rule="evenodd"
+							clip-rule="evenodd"
+							d="M1017.16 40C1018.18 40.0021 1019.17 40.301 1020.02 40.8598C1020.87 41.4187 1021.54 42.2132 1021.94 43.146L1021.09 43.523C1020.57 43.751 1019.99 43.578 1019.62 43.145C1019.32 42.7868 1018.94 42.4988 1018.52 42.301C1018.09 42.1033 1017.63 42.0005 1017.16 42C1015.38 42 1013.93 43.458 1013.93 45.25C1013.93 47.042 1015.38 48.5 1017.16 48.5C1017.63 48.4997 1018.09 48.397 1018.52 48.1993C1018.94 48.0015 1019.32 47.7134 1019.62 47.355C1019.99 46.923 1020.57 46.75 1021.09 46.978L1021.94 47.354C1021.54 48.2872 1020.87 49.082 1020.02 49.6409C1019.17 50.1998 1018.18 50.4984 1017.16 50.5C1014.28 50.5 1011.94 48.146 1011.94 45.25C1011.94 42.355 1014.28 40 1017.16 40ZM1004.98 40.165C1006 40.165 1006.81 40.868 1006.96 41.874L1007.91 48.334L1009.3 42.762L1009.67 41.251C1009.74 40.9801 1009.89 40.7395 1010.11 40.5675C1010.33 40.3955 1010.6 40.302 1010.88 40.302H1011.97L1011.53 42.077L1009.85 48.816C1009.75 49.2508 1009.5 49.6377 1009.15 49.9135C1008.8 50.1894 1008.37 50.3379 1007.92 50.335L1007.82 50.333C1007.35 50.314 1006.91 50.1327 1006.57 49.8207C1006.22 49.5088 1006 49.0859 1005.93 48.626L1004.98 42.166L1004.03 48.626C1003.97 49.0862 1003.74 49.5094 1003.4 49.8215C1003.06 50.1336 1002.61 50.3146 1002.15 50.333C1001.18 50.366 1000.34 49.756 1000.11 48.816L998 40.302H999.083C999.362 40.302 999.633 40.3955 999.853 40.5675C1000.07 40.7395 1000.23 40.9801 1000.3 41.251L1000.6 42.46L1002.05 48.334L1003.01 41.874C1003.07 41.396 1003.3 40.9576 1003.67 40.6424C1004.03 40.3272 1004.5 40.1573 1004.98 40.165Z"
+							fill="#1B50AF"
+						/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<defs>
+		<clipPath id="clip0_2_1670">
+			<rect width="1058" height="237" fill="white" />
+		</clipPath>
+	</defs>
+</svg>
